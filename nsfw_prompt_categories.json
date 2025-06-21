@@ -348,7 +348,59 @@
     {
       "ja": "誘惑している顔",
       "tag": "seductive_smile"
-    }
+    },
+    {
+    "ja": "金色のビキニ",
+    "tag": "gold_bikini"
+  },
+  {
+    "ja": "ヒョウ柄ビキニ",
+    "tag": "leopard print bikini"
+  },
+  {
+    "ja": "服を開ける",
+    "tag": "open_clothes"
+  },
+  {
+    "ja": "服をつかむ",
+    "tag": "grab_clothes"
+  },
+  {
+    "ja": "服を脱ぐ途中",
+    "tag": "undressing"
+  },
+  {
+    "ja": "赤いレースパンティ",
+    "tag": "red lace panties"
+  },
+  {
+    "ja": "透けて見える衣装",
+    "tag": "see-through"
+  },
+  {
+    "ja": "スカートをたくし上げている",
+    "tag": "skirt_lift"
+  },
+  {
+    "ja": "揺れている服・体の一部",
+    "tag": "motion_blur"
+  },
+  {
+    "ja": "スチーム（蒸気による演出）",
+    "tag": "steam"
+  },
+  {
+    "ja": "谷間部分に切り抜きのある服",
+    "tag": "cleavage_cutout"
+  },
+  {
+    "ja": "胸部分が開いている服",
+    "tag": "open_chest"
+  },
+  {
+    "ja": "ミニスカート",
+    "tag": "mini_skirt"
+  }
   ],
   "セクシーポーズ": [
     {
