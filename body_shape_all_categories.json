@@ -1,0 +1,254 @@
+{
+  "胸（Bust Size）": [
+    {
+      "tag": "flat_chest",
+      "ja": "まな板"
+    },
+    {
+      "tag": "small_breasts",
+      "ja": "小さい胸"
+    },
+    {
+      "tag": "medium_breasts",
+      "ja": "普通サイズの胸"
+    },
+    {
+      "tag": "large_breasts",
+      "ja": "大きめの胸"
+    },
+    {
+      "tag": "huge_breasts",
+      "ja": "かなり大きい胸"
+    },
+    {
+      "tag": "(gigantic_breasts:1.1)",
+      "ja": "巨乳（1.1倍）"
+    },
+    {
+      "tag": "(gigantic_breasts:1.2)",
+      "ja": "爆乳（1.2倍）"
+    },
+    {
+      "tag": "(gigantic_breasts:1.3)",
+      "ja": "超爆乳（1.3倍）"
+    },
+    {
+      "tag": "(gigantic_breasts:1.4)",
+      "ja": "極爆乳（1.4倍）"
+    },
+    {
+      "tag": "(gigantic_breasts:1.5)",
+      "ja": "伝説級爆乳（1.5倍）"
+    }
+  ],
+  "腰（Waist Size）": [
+    {
+      "tag": "narrow_waist",
+      "ja": "細いウエスト"
+    },
+    {
+      "tag": "slim_waist",
+      "ja": "スリムなウエスト"
+    },
+    {
+      "tag": "medium_waist",
+      "ja": "標準的なウエスト"
+    },
+    {
+      "tag": "wide_waist",
+      "ja": "やや広いウエスト"
+    },
+    {
+      "tag": "thick_waist",
+      "ja": "がっしりしたウエスト"
+    },
+    {
+      "tag": "hourglass_figure",
+      "ja": "くびれたウエスト（砂時計体型）"
+    },
+    {
+      "tag": "(wide_waist:1.1)",
+      "ja": "広いウエスト（1.1倍）"
+    },
+    {
+      "tag": "(wide_waist:1.2)",
+      "ja": "広めのウエスト（1.2倍）"
+    },
+    {
+      "tag": "(narrow_waist:1.2)",
+      "ja": "くびれ強調（1.2倍）"
+    },
+    {
+      "tag": "hip_emphasis",
+      "ja": "ヒップを強調"
+    }
+  ],
+  "足（Leg Size）": [
+    {
+      "tag": "slim_legs",
+      "ja": "スリムな脚"
+    },
+    {
+      "tag": "normal_legs",
+      "ja": "普通の脚"
+    },
+    {
+      "tag": "thick_legs",
+      "ja": "がっしり脚"
+    },
+    {
+      "tag": "thick_thighs",
+      "ja": "太ももムチムチ"
+    },
+    {
+      "tag": "(thick_thighs:1.1)",
+      "ja": "かなり太もも（1.1倍）"
+    },
+    {
+      "tag": "(thick_thighs:1.2)",
+      "ja": "極太もも（1.2倍）"
+    },
+    {
+      "tag": "plump_thighs",
+      "ja": "ふっくら太もも"
+    },
+    {
+      "tag": "curvy_legs",
+      "ja": "曲線的な脚"
+    },
+    {
+      "tag": "bare_legs",
+      "ja": "露出した脚"
+    },
+    {
+      "tag": "long_legs",
+      "ja": "長い脚"
+    }
+  ],
+  "尻（Butt Size & Shape）": [
+    {
+      "tag": "flat_butt",
+      "ja": "平たいお尻"
+    },
+    {
+      "tag": "small_butt",
+      "ja": "小さなお尻"
+    },
+    {
+      "tag": "normal_butt",
+      "ja": "普通のお尻"
+    },
+    {
+      "tag": "round_ass",
+      "ja": "丸いお尻"
+    },
+    {
+      "tag": "big_ass",
+      "ja": "大きなお尻"
+    },
+    {
+      "tag": "huge_ass",
+      "ja": "かなり大きなお尻"
+    },
+    {
+      "tag": "(huge_ass:1.2)",
+      "ja": "爆乳級のお尻（1.2倍）"
+    },
+    {
+      "tag": "tight_ass",
+      "ja": "引き締まったお尻"
+    },
+    {
+      "tag": "wide_hips",
+      "ja": "幅広なお尻（ヒップ）"
+    },
+    {
+      "tag": "hip_up",
+      "ja": "ヒップアップされたお尻"
+    }
+  ],
+   "肌の質（Skin Texture）": [
+    {
+      "tag": "shiny_skin",
+      "ja": "テカテカの肌"
+    },
+    {
+      "tag": "smooth_skin",
+      "ja": "なめらかな肌"
+    },
+    {
+      "tag": "glistening",
+      "ja": "輝く肌"
+    },
+    {
+      "tag": "oily_skin",
+      "ja": "オイリーな肌"
+    },
+    {
+      "tag": "flawless_skin",
+      "ja": "完璧な肌"
+    },
+    {
+      "tag": "skin_reflection",
+      "ja": "肌に反射光"
+    },
+    {
+      "tag": "glowing_skin",
+      "ja": "輝くような肌"
+    },
+    {
+      "tag": "soft_lighting",
+      "ja": "柔らかな光の肌演出"
+    },
+    {
+      "tag": "damp_skin",
+      "ja": "湿った肌"
+    },
+    {
+      "tag": "touchable_skin",
+      "ja": "触れたくなる肌"
+    }
+  ],
+  "ムチムチ度（Plumpness）": [
+    {
+      "tag": "plump",
+      "ja": "ムチムチ"
+    },
+    {
+      "tag": "voluptuous",
+      "ja": "豊満"
+    },
+    {
+      "tag": "chubby",
+      "ja": "ぽっちゃり"
+    },
+    {
+      "tag": "curvy",
+      "ja": "曲線的なボディ"
+    },
+    {
+      "tag": "thick",
+      "ja": "厚みのある体"
+    },
+    {
+      "tag": "heavy_set",
+      "ja": "肉付きがいい"
+    },
+    {
+      "tag": "thick_thighs",
+      "ja": "太ももムチムチ"
+    },
+    {
+      "tag": "soft_body",
+      "ja": "柔らかい体つき"
+    },
+    {
+      "tag": "plush_body",
+      "ja": "ふわっとした体"
+    },
+    {
+      "tag": "sensual_body",
+      "ja": "セクシーな体"
+    }
+  ]
+}
