@@ -1,0 +1,420 @@
+{
+  "水関連施設": [
+    {
+      "tag": "toilet",
+      "ja": "トイレ、洋式"
+    },
+    {
+      "tag": "squat toilet",
+      "ja": "トイレ、和式便所"
+    },
+    {
+      "tag": "restroom",
+      "ja": "公衆便所"
+    },
+    {
+      "tag": "urinal",
+      "ja": "男性用小便器"
+    },
+    {
+      "tag": "toilet stall",
+      "ja": "トイレの個室"
+    },
+    {
+      "tag": "toilet paper",
+      "ja": "トイレットペーパー"
+    },
+    {
+      "tag": "toilet use",
+      "ja": "トイレを使う"
+    },
+    {
+      "tag": "bathroom",
+      "ja": "浴室、洗面所"
+    },
+    {
+      "tag": "bath",
+      "ja": "お風呂・より広い概念を包括する一般的な用語"
+    },
+    {
+      "tag": "bathtub",
+      "ja": "浴槽・特に西洋式の浴槽に限定"
+    },
+    {
+      "tag": "claw foot bathtub",
+      "ja": "猫足バスタブ"
+    },
+    {
+      "tag": "slipper bathtub",
+      "ja": "スリッパのような形状の浴槽"
+    },
+    {
+      "tag": "bubble bath",
+      "ja": "泡風呂"
+    },
+    {
+      "tag": "yuzu bath",
+      "ja": "ゆず湯"
+    },
+    {
+      "tag": "bath of blood",
+      "ja": "血風呂"
+    },
+    {
+      "tag": "bath stool",
+      "ja": "風呂椅子 / バスチェア"
+    },
+    {
+      "tag": "shower \\(place\\)",
+      "ja": "シャワー室"
+    },
+    {
+      "tag": "bathing",
+      "ja": "入浴、水浴び"
+    },
+    {
+      "tag": "mixed-sex bathing",
+      "ja": "異性での入浴、混浴"
+    },
+    {
+      "tag": "same-sex bathing",
+      "ja": "同性での入浴"
+    },
+    {
+      "tag": "shared bathing",
+      "ja": "風呂やシャワーを一緒に使う"
+    },
+    {
+      "tag": "clothed bath",
+      "ja": "着衣入浴"
+    },
+    {
+      "tag": "after bathing",
+      "ja": "お風呂上り"
+    }
+  ],
+  "部屋": [
+    {
+      "tag": "room",
+      "ja": "部屋"
+    },
+    {
+      "tag": "messy room",
+      "ja": "散らかった部屋、汚部屋"
+    },
+    {
+      "tag": "otaku room",
+      "ja": "オタクの部屋"
+    },
+    {
+      "tag": "dark room",
+      "ja": "ダークルーム、暗室・光が極めて少ないまたは遮光された部屋"
+    },
+    {
+      "tag": "ballroom",
+      "ja": "舞踏室・社交ダンスや優雅な宴会のための大広間"
+    },
+    {
+      "tag": "storage room",
+      "ja": "物置、収納室"
+    },
+    {
+      "tag": "throne room",
+      "ja": "玉座の間・throneを中心に配置し、豪華な装飾が施されている"
+    },
+    {
+      "tag": "hotel",
+      "ja": "ホテル"
+    },
+    {
+      "tag": "hotel room",
+      "ja": "ホテルの客室"
+    },
+    {
+      "tag": "locker room",
+      "ja": "ロッカールーム、更衣室"
+    },
+    {
+      "tag": "closet",
+      "ja": "クローゼット・建物に固定された収納スペース/小部屋"
+    },
+    {
+      "tag": "wardrobe",
+      "ja": "ワードローブ・衣類を保管する移動可能な家具"
+    },
+    {
+      "tag": "loaded interior",
+      "ja": "無数の細部や見るべきものが詰め込まれた部屋や家屋の内装"
+    },
+    {
+      "tag": "vanity table",
+      "ja": "化粧台、ドレッサー・引き出し付きのテーブル・mirror鏡が付属・stoolスツールが付くことも"
+    },
+    {
+      "tag": "chest of drawers",
+      "ja": "箪笥（たんす）・衣類を収納するための引き出し付き家具・複数の引き出しdrawerを備える・mirrorが付属する場合もある注意点:化粧台vanity tableとは異なる・主に衣類収納用途"
+    },
+    {
+      "tag": "cushion",
+      "ja": "クッション使用場所:bed,couch,chairfloorなど注意:枕pillowとは異なり、睡眠用に限定されない"
+    },
+    {
+      "tag": "figure",
+      "ja": "フィギュア・キャラクターの小型statue"
+    },
+    {
+      "tag": "chandelier",
+      "ja": "シャンデリア"
+    },
+    {
+      "tag": "chair",
+      "ja": "椅子"
+    },
+    {
+      "tag": "wooden chair",
+      "ja": "木製の椅子"
+    },
+    {
+      "tag": "swivel chair",
+      "ja": "回転椅子・office chairやgaming chairが代表的"
+    },
+    {
+      "tag": "beach chair",
+      "ja": "2種類の屋外用家具を指す曖昧な用語1.deck chair2.lounge chair"
+    },
+    {
+      "tag": "deck chair",
+      "ja": "デッキチェア・折りたたみ可能・布やビニールの一枚物で座面と背もたれを形成"
+    },
+    {
+      "tag": "lounge chair",
+      "ja": "リクライニングチェア、サンラウンジャー・recliningした姿勢で横たわれる・beachやpoolsideで使用・parasolと共に使用されることもdeck chairとの違い:・座面が背もたれより長い・より寝そべりやすい構造"
+    },
+    {
+      "tag": "bean bag chair",
+      "ja": "大きな布製バッグ・体の形に合わせて形が変化する・ジャグリングやゲーム用の小さなbean bagとは異なる"
+    },
+    {
+      "tag": "easy chair",
+      "ja": "大きなクッション付きの椅子・通常はarmchairタイプ"
+    },
+    {
+      "tag": "massage chair",
+      "ja": "マッサージチェア"
+    },
+    {
+      "tag": "camping chair",
+      "ja": "キャンプチェア・campingでの持ち運びを想定・折りたたみ式で高い携帯性・金属フレームにはさみ状の接合部・耐候性のある布製の座面と背もたれ"
+    },
+    {
+      "tag": "stool",
+      "ja": "スツール・背もたれやひじ掛けのない座席"
+    },
+    {
+      "tag": "bar stool",
+      "ja": "バースツール・バーカウンターやハイテーブルに合わせた高さ"
+    },
+    {
+      "tag": "bath stool",
+      "ja": "風呂椅子"
+    },
+    {
+      "tag": "wooden stool",
+      "ja": "木製スツール"
+    },
+    {
+      "tag": "zaisu",
+      "ja": "座椅子・脚のない椅子・主にtatamiの上で使用・kotatsuと共に使用されることも"
+    },
+    {
+      "tag": "zabuton",
+      "ja": "座布団・平らな長方形のcushion・floorに直接置いて使用"
+    },
+    {
+      "tag": "throne",
+      "ja": "玉座、王座"
+    },
+    {
+      "tag": "on chair",
+      "ja": "椅子の上・椅子の上にいる状態全般を指す"
+    },
+    {
+      "tag": "standing on chair",
+      "ja": "椅子の上に立つ"
+    },
+    {
+      "tag": "human chair",
+      "ja": "人間椅子・四つん這いの人all foursの上に座るsitting on person"
+    },
+    {
+      "tag": "on stool",
+      "ja": "スツールの上の状態・スツール上での全ての姿勢"
+    },
+    {
+      "tag": "table",
+      "ja": "テーブル、机・平らな水平面を持つ家具・基本的には収納機能は必須ではない"
+    },
+    {
+      "tag": "wooden table",
+      "ja": "木製テーブル"
+    },
+    {
+      "tag": "glass table",
+      "ja": "ガラス製テーブル"
+    },
+    {
+      "tag": "poker table",
+      "ja": "賭博台・poker専用に設計されたテーブル"
+    },
+    {
+      "tag": "pool table",
+      "ja": "ビリヤードやスヌーカー用billiardsのテーブル・cue stickでbilliard ballを入れる"
+    },
+    {
+      "tag": "roulette table",
+      "ja": "casino用のルーレットテーブル・テーブル面にroulette盤が組み込まれている"
+    },
+    {
+      "tag": "mahjong table",
+      "ja": "雀卓、麻雀卓・mahjong専用テーブル"
+    },
+    {
+      "tag": "on table",
+      "ja": "机の上・テーブルの上にstanding、sitting、lyingなどの状態"
+    },
+    {
+      "tag": "sitting on table",
+      "ja": "テーブルの上に座っている"
+    },
+    {
+      "tag": "under table",
+      "ja": "机の下"
+    },
+    {
+      "tag": "pov across table",
+      "ja": "テーブル越しの視点"
+    },
+    {
+      "tag": "leaning on table",
+      "ja": "テーブルに寄りかかっている状態・against tableと類似の意味"
+    },
+    {
+      "tag": "legs on table",
+      "ja": "脚をテーブルの上に置いている状態・feet on tableと類似の意味"
+    },
+    {
+      "tag": "computer",
+      "ja": "コンピューター、パソコン"
+    },
+    {
+      "tag": "at computer",
+      "ja": "コンピュータを使用中、またはコンピュータを使用できる位置にいる"
+    },
+    {
+      "tag": "computer keyboard",
+      "ja": "キーボード"
+    },
+    {
+      "tag": "computer mouse",
+      "ja": "マウス"
+    },
+    {
+      "tag": "television",
+      "ja": "テレビ"
+    },
+    {
+      "tag": "flat screen tv",
+      "ja": "厚さが約10cm以下の薄型テレビ"
+    },
+    {
+      "tag": "crt",
+      "ja": "ブラウン管・大きく箱型の形状が特徴的"
+    },
+    {
+      "tag": "rabbit ears antenna",
+      "ja": "2本のロッドまたはループで構成された室内用双極ラジオアンテナ"
+    },
+    {
+      "tag": "monitor",
+      "ja": "モニター含まれるもの：・液晶フラットパネルモニター・旧来のブラウン管crt"
+    },
+    {
+      "tag": "holographic monitor",
+      "ja": "固体ではなくホログラムで構成されたモニター"
+    },
+    {
+      "tag": "multiple monitors",
+      "ja": "1つの画像内に複数のモニターが存在"
+    }
+  ],
+  "学校": [
+    {
+      "tag": "school",
+      "ja": "学校"
+    },
+    {
+      "tag": "classroom",
+      "ja": "教室"
+    },
+    {
+      "tag": "gym",
+      "ja": "体育館, ジム"
+    },
+    {
+      "tag": "gym storeroom",
+      "ja": "体育館倉庫"
+    },
+    {
+      "tag": "art room",
+      "ja": "美術室・painting \\(action\\),sewing工芸などの芸術プロジェクトを行うworkshopの一種"
+    },
+    {
+      "tag": "infirmary",
+      "ja": "保健室・curtainsで囲まれたhospital bedが置かれていることが多い"
+    },
+    {
+      "tag": "clubroom",
+      "ja": "部室"
+    },
+    {
+      "tag": "hallway",
+      "ja": "廊下"
+    },
+    {
+      "tag": "rooftop",
+      "ja": "屋上"
+    },
+    {
+      "tag": "teacher",
+      "ja": "教師、先生"
+    },
+    {
+      "tag": "teacher and student",
+      "ja": "先生×生徒"
+    },
+    {
+      "tag": "coach",
+      "ja": "コーチ、トレーナー"
+    },
+    {
+      "tag": "kindergarten teacher",
+      "ja": "保育士、保母"
+    },
+    {
+      "tag": "office lady",
+      "ja": "OL"
+    },
+    {
+      "tag": "salaryman",
+      "ja": "サラリーマン"
+    },
+    {
+      "tag": "pointer",
+      "ja": "指示棒、指し棒"
+    },
+    {
+      "tag": "holding pointer",
+      "ja": "指示棒を持つ"
+    }
+  ]
+}
