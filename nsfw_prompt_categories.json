@@ -397,6 +397,10 @@
     "ja": "胸部分が開いている服",
     "tag": "open_chest"
   },
+    {
+    "ja": "R18",
+    "tag": "NSFW"
+  },
   {
     "ja": "ミニスカート",
     "tag": "mini_skirt"
