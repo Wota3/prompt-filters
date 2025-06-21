@@ -248,12 +248,16 @@
   ],
   "構図": [
     {
-      "ja": "フルボディ",
-      "tag": "full_body"
+      "ja": "全身",
+      "tag": "full_body,"
     },
     {
-      "ja": "アッパーボディ",
-      "tag": "upper_body"
+      "ja": "上半身",
+      "tag": "upper_body,"
+    },
+    {
+      "ja": "膝上〜腰下",
+      "tag": "cowboy_shot,"
     },
     {
       "ja": "上から",
