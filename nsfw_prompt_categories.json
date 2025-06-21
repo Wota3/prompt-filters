@@ -248,6 +248,14 @@
   ],
   "構図": [
     {
+      "ja": "フルボディ",
+      "tag": "full_body"
+    },
+    {
+      "ja": "アッパーボディ",
+      "tag": "upper_body"
+    },
+    {
       "ja": "上から",
       "tag": "from above,"
     },
