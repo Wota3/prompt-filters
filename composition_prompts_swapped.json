@@ -1,0 +1,244 @@
+{
+  "e621語": [
+    {
+      "tag": "looking at viewer",
+      "ja": "カメラ目線"
+    },
+    {
+      "tag": "looking back",
+      "ja": "振り返る"
+    },
+    {
+      "tag": "looking back at viewer",
+      "ja": "振り返ってカメラ目線"
+    },
+    {
+      "tag": "looking at another",
+      "ja": "他者を見ている"
+    },
+    {
+      "tag": "looking away",
+      "ja": "そっぽを向いている"
+    },
+    {
+      "tag": "looking aside",
+      "ja": "視線を少し横に向けている"
+    },
+    {
+      "tag": "looking down",
+      "ja": "下を見ている"
+    },
+    {
+      "tag": "looking up",
+      "ja": "上を見上げている"
+    },
+    {
+      "tag": "looking at partner",
+      "ja": "パートナーを見ている"
+    },
+    {
+      "tag": "smiling at viewer",
+      "ja": "カメラ目線で微笑む"
+    },
+    {
+      "tag": "talking to viewer",
+      "ja": "カメラ目線で何かを喋る"
+    },
+    {
+      "tag": "pinup",
+      "ja": "魅力的なポーズの写真"
+    },
+    {
+      "tag": "roleplay",
+      "ja": "ロールプレイ"
+    },
+    {
+      "tag": "multiple poses",
+      "ja": "同一キャラクターの異なる姿勢"
+    },
+    {
+      "tag": "dialogue",
+      "ja": "対話、台詞"
+    },
+    {
+      "tag": "text",
+      "ja": "テキスト"
+    },
+    {
+      "tag": "black text",
+      "ja": "黒いテキスト"
+    },
+    {
+      "tag": "white text",
+      "ja": "白いテキスト"
+    },
+    {
+      "tag": "text on clothing",
+      "ja": "服にテキスト"
+    },
+    {
+      "tag": "speech bubble",
+      "ja": "吹き出し"
+    },
+    {
+      "tag": "thought bubble",
+      "ja": "思考バブル"
+    },
+    {
+      "tag": "sound effects",
+      "ja": "効果音"
+    },
+    {
+      "tag": "different sound effects",
+      "ja": "様々な効果音"
+    },
+    {
+      "tag": "onomatopoeia",
+      "ja": "擬音語"
+    },
+    {
+      "tag": "vowelless sound effect",
+      "ja": "母音なしの擬音語"
+    },
+    {
+      "tag": "bodily noises",
+      "ja": "体の音"
+    },
+    {
+      "tag": "profanity",
+      "ja": "下品または冒涜的な言葉"
+    },
+    {
+      "tag": "exclamation point",
+      "ja": "感嘆符（！）など"
+    },
+    {
+      "tag": "question mark",
+      "ja": "疑問を表す記号（？）"
+    },
+    {
+      "tag": "ellipsis",
+      "ja": "省略記号（…）など"
+    },
+    {
+      "tag": "?!",
+      "ja": "?!"
+    },
+    {
+      "tag": "emanata",
+      "ja": "感情表現記号"
+    },
+    {
+      "tag": "vowelless",
+      "ja": "母音を含まない言葉や表現"
+    },
+    {
+      "tag": "what",
+      "ja": "何"
+    },
+    {
+      "tag": "black bars",
+      "ja": "画像の一部を隠すための黒い帯"
+    },
+    {
+      "tag": "number",
+      "ja": "数字"
+    },
+    {
+      "tag": "symbol",
+      "ja": "何かを象徴する記号や図形"
+    },
+    {
+      "tag": "question",
+      "ja": "質問"
+    },
+    {
+      "tag": "musical note",
+      "ja": "音符"
+    },
+    {
+      "tag": "music",
+      "ja": "音楽"
+    },
+    {
+      "tag": "dialogue box",
+      "ja": "会話ボックス"
+    },
+    {
+      "tag": "pictographics",
+      "ja": "絵文字"
+    },
+    {
+      "tag": "sound effect variant",
+      "ja": "擬音のバリエーション"
+    },
+    {
+      "tag": "text with heart",
+      "ja": "ハート付きテキスト"
+    },
+    {
+      "tag": "square crossover",
+      "ja": "四角形の要素が交差するデザイン"
+    },
+    {
+      "tag": "occult symbol",
+      "ja": "オカルト記号"
+    },
+    {
+      "tag": "vowelless vocalization",
+      "ja": "母音なしの発声"
+    },
+    {
+      "tag": "name in dialogue",
+      "ja": "台詞中の名前"
+    },
+    {
+      "tag": "page number",
+      "ja": "ページ番号"
+    },
+    {
+      "tag": "heart after text",
+      "ja": "テキスト後のハート"
+    },
+    {
+      "tag": "color swatch",
+      "ja": "カラースウォッチ（色見本や色のサンプル）"
+    },
+    {
+      "tag": "motion lines",
+      "ja": "動きを表す線"
+    },
+    {
+      "tag": "throbbing",
+      "ja": "脈打つ"
+    },
+    {
+      "tag": "border",
+      "ja": "枠線"
+    },
+    {
+      "tag": "white border",
+      "ja": "白い縁取り"
+    },
+    {
+      "tag": "black border",
+      "ja": "黒い縁取り"
+    },
+    {
+      "tag": "logo",
+      "ja": "ロゴ"
+    },
+    {
+      "tag": "patreon logo",
+      "ja": "Patreonのロゴ"
+    },
+    {
+      "tag": "website logo",
+      "ja": "ウェブサイトのロゴ"
+    },
+    {
+      "tag": "name drop",
+      "ja": "人名引用"
+    }
+  ]
+}
