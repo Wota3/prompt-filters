@@ -284,6 +284,72 @@
       "tag": "from a distance,"
     }
   ],
+  "よく使う": [
+    {
+      "ja": "片脚上げポーズ",
+      "tag": "one_leg_up"
+    },
+    {
+      "ja": "ピースサイン",
+      "tag": "peace_sign"
+    },
+    {
+      "ja": "腰に手を当てる",
+      "tag": "one_hand_on_hip"
+    },
+    {
+      "ja": "胸を強調したポーズ",
+      "tag": "pose_accentuating_breasts"
+    },
+    {
+      "ja": "振り向きポーズ",
+      "tag": "looking_back"
+    },
+    {
+      "ja": "しゃがみポーズ",
+      "tag": "squatting"
+    },
+    {
+      "ja": "脚を開くポーズ",
+      "tag": "legs_apart"
+    },
+    {
+      "ja": "膝を開くポーズ",
+      "tag": "knees_apart"
+    },
+    {
+      "ja": "椅子に座っている",
+      "tag": "sitting"
+    },
+    {
+      "ja": "座りポーズ",
+      "tag": "sitting_pose"
+    },
+    {
+      "ja": "前かがみポーズ",
+      "tag": "leaning_forward"
+    },
+    {
+      "ja": "お尻をこちらに向ける",
+      "tag": "facing_back"
+    },
+    {
+      "ja": "立ち姿",
+      "tag": "standing"
+    },
+    {
+      "ja": "手を上げている",
+      "tag": "arms_up"
+    },
+    {
+      "ja": "腕組み",
+      "tag": "arms_crossed"
+    },
+    {
+      "ja": "誘惑している顔",
+      "tag": "seductive_smile"
+    }
+  ],
   "セクシーポーズ": [
     {
     "ja": "腕を寄せて胸を強調し、恥ずかしげな表情",
