@@ -1,0 +1,3564 @@
+{
+  "ハンドジェスチャー🫶": [],
+  "ハンドジェスチャー🫶・Danbooru語📦": [
+    {
+      "ja": "ピースサイン✌️",
+      "tag": "v"
+    },
+    {
+      "ja": "猫の手",
+      "tag": "paw pose"
+    },
+    {
+      "ja": "ダブルピース",
+      "tag": "double v"
+    },
+    {
+      "ja": "ガオー",
+      "tag": "claw pose"
+    },
+    {
+      "ja": "目の上でピース",
+      "tag": "v over eye"
+    },
+    {
+      "ja": "うさぎのポーズ",
+      "tag": "rabbit pose"
+    },
+    {
+      "ja": "口の上でピース",
+      "tag": "v over mouth"
+    },
+    {
+      "ja": "ゾンビのポーズ",
+      "tag": "zombie pose"
+    },
+    {
+      "ja": "3本指のジェスチャー",
+      "tag": "w"
+    },
+    {
+      "ja": "お嬢様ポーズ、高笑い",
+      "tag": "ojou-sama pose"
+    },
+    {
+      "ja": "グッドサイン👍",
+      "tag": "thumbs up"
+    },
+    {
+      "ja": "幽霊のポーズ",
+      "tag": "ghost pose"
+    },
+    {
+      "ja": "バッドサイン👎",
+      "tag": "thumbs down"
+    },
+    {
+      "ja": "勝利のポーズ",
+      "tag": "victory pose"
+    },
+    {
+      "ja": "OKサイン👌",
+      "tag": "ok sign"
+    },
+    {
+      "ja": "筋肉自慢ポーズ💪",
+      "tag": "flexing"
+    },
+    {
+      "ja": "手でハート🫶",
+      "tag": "heart hands"
+    },
+    {
+      "ja": "指でハート🫰",
+      "tag": "finger heart"
+    },
+    {
+      "ja": "4本の指でハート🫶",
+      "tag": "4-finger heart hands"
+    },
+    {
+      "ja": "指でフレームを作る・写真を撮るような仕草",
+      "tag": "finger frame"
+    },
+    {
+      "ja": "手を振る",
+      "tag": "waving"
+    },
+    {
+      "ja": "手で狐を作る",
+      "tag": "fox shadow puppet"
+    },
+    {
+      "ja": "腕組み",
+      "tag": "crossed arms"
+    },
+    {
+      "ja": "両手で狐を作る",
+      "tag": "double fox shadow puppet"
+    },
+    {
+      "ja": "手を開く",
+      "tag": "open hand"
+    },
+    {
+      "ja": "人差し指を立てる",
+      "tag": "index finger raised"
+    },
+    {
+      "ja": "両手を開く",
+      "tag": "open hands"
+    },
+    {
+      "ja": "両手の人差し指を立てる",
+      "tag": "index fingers raised"
+    },
+    {
+      "ja": "指を広げる・各指が他の指から離れている",
+      "tag": "spread fingers"
+    },
+    {
+      "ja": "中指を立てる",
+      "tag": "middle finger"
+    },
+    {
+      "ja": "握りこぶし",
+      "tag": "clenched hand"
+    },
+    {
+      "ja": "両手の中指を立てる",
+      "tag": "double middle finger"
+    },
+    {
+      "ja": "両手の握りこぶし",
+      "tag": "clenched hands"
+    },
+    {
+      "ja": "小指を立てる",
+      "tag": "pinky out"
+    },
+    {
+      "ja": "拳を挙げる",
+      "tag": "raised fist"
+    },
+    {
+      "ja": "しーっ",
+      "tag": "shushing"
+    },
+    {
+      "ja": "ガッツポーズ",
+      "tag": "fist pump"
+    },
+    {
+      "ja": "指合わせ・他のタグと組み合わせて使用する補助的なタグ",
+      "tag": "fingers together"
+    },
+    {
+      "ja": "手を合わせる・両手を組み合わせる動作",
+      "tag": "own hands clasped"
+    },
+    {
+      "ja": "指先ピラミッド・両手の指先同士を合わせ、手のひらの間に空間を作る",
+      "tag": "steepled fingers"
+    },
+    {
+      "ja": "手を合わせる・両手を触れ合わせる動作",
+      "tag": "own hands together"
+    },
+    {
+      "ja": "人差し指合わせ",
+      "tag": "index fingers together"
+    },
+    {
+      "ja": "合掌 (頂きます)",
+      "tag": "palms together"
+    },
+    {
+      "ja": "指で作る笑顔",
+      "tag": "fingersmile"
+    },
+    {
+      "ja": "手をすくう形にする用途：・液体を受ける・小さな物を持つ",
+      "tag": "cupping hands"
+    },
+    {
+      "ja": "2本の指の間に物を挟む対象物の例：・武器weapon・お札ofuda・カードcard・タバコcigarette",
+      "tag": "between fingers"
+    },
+    {
+      "ja": "目をこする",
+      "tag": "rubbing eyes"
+    },
+    {
+      "ja": "指の間のナイフ",
+      "tag": "knives between fingers"
+    },
+    {
+      "ja": "敬礼する",
+      "tag": "salute"
+    },
+    {
+      "ja": "指の間のお札",
+      "tag": "ofuda between fingers"
+    },
+    {
+      "ja": "2本指での敬礼",
+      "tag": "two-finger salute"
+    },
+    {
+      "ja": "指の隙間から覗く",
+      "tag": "peeking through fingers"
+    },
+    {
+      "ja": "指で銃を作る",
+      "tag": "finger gun"
+    },
+    {
+      "ja": "指パッチン",
+      "tag": "snapping fingers"
+    },
+    {
+      "ja": "指で髪を巻く",
+      "tag": "twirling hair"
+    },
+    {
+      "ja": "指を丸く曲げている",
+      "tag": "curled fingers"
+    }
+  ],
+  "手を上げる動作": [
+    {
+      "ja": "片手を上げる・片手を上半身またはそれ以上の高さに上げる動作・手が目の高さより上の場合はarm upを使用",
+      "tag": "hand up"
+    },
+    {
+      "ja": "両手を上げる・両手を上半身またはそれ以上の高さに上げる動作・手が目の高さより上の場合はarms upを使用",
+      "tag": "hands up"
+    },
+    {
+      "ja": "片腕を上げる・片腕を目線かそれ以上の高さまで上げている・腕を体から前に伸ばしている場合はoutstretched armを使用・肘を上げて手が目線より少し下の場合も該当",
+      "tag": "arm up"
+    },
+    {
+      "ja": "両腕を上げる・両腕を目線かそれ以上の高さまで上げている・腕を体から前に伸ばしている場合はoutstretched armsを使用・腕を横に広げている場合はspread armsを使用",
+      "tag": "arms up"
+    }
+  ],
+  "腕を伸ばす動作": [
+    {
+      "ja": "手を伸ばす、何かに手を伸ばす動作・キャラクターが手や足、または他の物体を使って何かに向かって手を伸ばす動作",
+      "tag": "reaching"
+    },
+    {
+      "ja": "両腕を横に広げる・両腕を体の横方向（垂直）に伸ばしている",
+      "tag": "spread arms"
+    },
+    {
+      "ja": "視聴者に向かって手を伸ばす・画面から飛び出すように、視聴者の方向に向かって腕を伸ばす",
+      "tag": "reaching towards viewer"
+    },
+    {
+      "ja": "片腕を伸ばす・片腕を体から離して伸ばす",
+      "tag": "outstretched arm"
+    },
+    {
+      "ja": "肘を下げ、前腕を上げることでW字型を作る姿勢",
+      "tag": "w arms"
+    },
+    {
+      "ja": "両腕を伸ばす・両腕を体から離して伸ばす",
+      "tag": "outstretched arms"
+    },
+    {
+      "ja": "手を開く、手のひらを広げる、手を伸ばす・手のひらを開いて伸ばしている・手のひらは上向き、下向き、垂直のいずれも可能",
+      "tag": "outstretched hand"
+    }
+  ],
+  "身体部位への接触": [
+    {
+      "ja": "帽子に手を当てる",
+      "tag": "hand on headwear"
+    },
+    {
+      "ja": "服の下に手を入れる・服の中で乳揉み",
+      "tag": "hand under clothes"
+    },
+    {
+      "ja": "帽子に手を当てる(両手)",
+      "tag": "hands on headwear"
+    },
+    {
+      "ja": "シャツの下に手を入れる",
+      "tag": "hand under shirt"
+    },
+    {
+      "ja": "ヘッドホンに手を当てる",
+      "tag": "hand on headphones"
+    },
+    {
+      "ja": "眼鏡を直す",
+      "tag": "adjusting eyewear"
+    },
+    {
+      "ja": "パンツの中に手を入れる",
+      "tag": "hand in panties"
+    },
+    {
+      "ja": "眼鏡に手を触れる",
+      "tag": "hand on eyewear"
+    },
+    {
+      "ja": "特定の場所に向けて、他人の手を誘導する",
+      "tag": "guiding hand"
+    },
+    {
+      "ja": "ポケットに手を入れる",
+      "tag": "hand in pocket"
+    },
+    {
+      "ja": "髪を持っている",
+      "tag": "holding hair"
+    },
+    {
+      "ja": "ポケットに両手を入れる",
+      "tag": "hands in pockets"
+    }
+  ],
+  "環境との接触": [
+    {
+      "ja": "地面に手をつく",
+      "tag": "hand on ground"
+    },
+    {
+      "ja": "壁に手をつく",
+      "tag": "hand on wall"
+    },
+    {
+      "ja": "地面に両手をつく",
+      "tag": "hands on ground"
+    },
+    {
+      "ja": "ガラスに手を当てる",
+      "tag": "hand on glass"
+    },
+    {
+      "ja": "床に手をつく",
+      "tag": "hand on floor"
+    },
+    {
+      "ja": "テーブルに手を置く",
+      "tag": "hand on table"
+    }
+  ],
+  "休息・寄りかかり動作": [
+    {
+      "ja": "頬杖",
+      "tag": "head rest"
+    },
+    {
+      "ja": "寄りかかる/もたれる・完全に横たわるのではなく、後ろに寄りかかってくつろぐ",
+      "tag": "reclining"
+    },
+    {
+      "ja": "退屈そうに頬杖",
+      "tag": "cheek rest"
+    },
+    {
+      "ja": "寄りかかる/傾く",
+      "tag": "leaning"
+    },
+    {
+      "ja": "胸を乗せる",
+      "tag": "breast rest"
+    },
+    {
+      "ja": "前かがみ",
+      "tag": "leaning forward"
+    },
+    {
+      "ja": "肘を置く",
+      "tag": "elbow rest"
+    },
+    {
+      "ja": "後ろに傾く",
+      "tag": "leaning back"
+    },
+    {
+      "ja": "腕を表面、物体、他の人、または自分の体に当てる",
+      "tag": "arm rest"
+    },
+    {
+      "ja": "横に傾く",
+      "tag": "leaning to the side"
+    },
+    {
+      "ja": "手を表面、物体、他の人、または自分の体に置く",
+      "tag": "hand rest"
+    },
+    {
+      "ja": "人に寄りかかる",
+      "tag": "leaning on person"
+    },
+    {
+      "ja": "片腕下げ、腕を体側につける・片方の腕を体の横に自然に下ろした状態で、もう片方の腕が別の動作をしている",
+      "tag": "arm at side"
+    },
+    {
+      "ja": "物に寄りかかる",
+      "tag": "leaning on object"
+    },
+    {
+      "ja": "両腕を体に沿って自然に下ろす",
+      "tag": "arms at sides"
+    },
+    {
+      "ja": "壁に寄りかかる",
+      "tag": "leaning on wall"
+    },
+    {
+      "ja": "テーブルに寄りかかる",
+      "tag": "leaning on table"
+    },
+    {
+      "ja": "手すりに寄りかかる",
+      "tag": "leaning on rail"
+    }
+  ],
+  "指差し・支持動作": [
+    {
+      "ja": "指差し",
+      "tag": "pointing"
+    },
+    {
+      "ja": "腕を何かに乗せる",
+      "tag": "arm support"
+    },
+    {
+      "ja": "こちらを指差す",
+      "tag": "pointing at viewer"
+    },
+    {
+      "ja": "テーブルに腕を乗せる",
+      "tag": "arm support on table"
+    },
+    {
+      "ja": "自分を指差す",
+      "tag": "pointing at self"
+    },
+    {
+      "ja": "椅子に腕を乗せる",
+      "tag": "arm support on chair"
+    },
+    {
+      "ja": "上を指差す",
+      "tag": "pointing up"
+    },
+    {
+      "ja": "窓枠に腕を乗せる",
+      "tag": "arm support on windowsill"
+    },
+    {
+      "ja": "他の人を指差す",
+      "tag": "pointing at another"
+    },
+    {
+      "ja": "手すりに腕を乗せる",
+      "tag": "arm support on railing"
+    },
+    {
+      "ja": "人差し指を立てる",
+      "tag": "index finger raised"
+    },
+    {
+      "ja": "カウンターに腕を乗せる",
+      "tag": "arm support on counter"
+    }
+  ],
+  "その他": [
+    {
+      "ja": "手人形、ハンドパペット",
+      "tag": "hand puppet"
+    },
+    {
+      "ja": "血がついた手",
+      "tag": "blood on hands"
+    },
+    {
+      "ja": "土下座🙇‍♀️",
+      "tag": "dogeza"
+    },
+    {
+      "ja": "左利き",
+      "tag": "left-handed"
+    },
+    {
+      "ja": "裸土下座",
+      "tag": "naked dogeza"
+    },
+    {
+      "ja": "折り畳まれた姿勢・上半身を可能な限り折り曲げ、体が半分に折れたような姿勢",
+      "tag": "folded"
+    },
+    {
+      "ja": "拘束された脚",
+      "tag": "bound legs"
+    },
+    {
+      "ja": "足が頭の上にある状態",
+      "tag": "legs over head"
+    },
+    {
+      "ja": "うつ伏せの状態からお尻を上げた姿勢",
+      "tag": "top-down bottom-up"
+    }
+  ],
+  "接触動作タグ👋": [
+    {
+      "ja": "誰かまたは何かを掴む動作",
+      "tag": "grabbing"
+    }
+  ],
+  "自分に対する動作・頭部全般": [
+    {
+      "ja": "自分の髪に手を入れる動作",
+      "tag": "hand in own hair"
+    },
+    {
+      "ja": "自分の髪に両手を入れている状態",
+      "tag": "hands in hair"
+    },
+    {
+      "ja": "頭に手・自分の頭に片手を置く動作・両手を使用する場合はhands on own headを使用",
+      "tag": "hand on own head"
+    },
+    {
+      "ja": "頭を自分の手に乗せる状態・通常、腕が頭の重さを支える・頭を両手に乗せる場合はhead on handsを使用・holding detached headやhand on another’s chinとは区別する",
+      "tag": "head on hand"
+    },
+    {
+      "ja": "片腕を頭上に伸ばしている・両腕の場合はarms upを使用",
+      "tag": "arm above head"
+    },
+    {
+      "ja": "自分の頭に腕・arm on another’s headとarm on own headの区別が必要",
+      "tag": "arm on own head"
+    },
+    {
+      "ja": "頭を掻くしぐさ",
+      "tag": "scratching head"
+    },
+    {
+      "ja": "自分の髪を手で持つ",
+      "tag": "holding own hair"
+    },
+    {
+      "ja": "自分の髪を咥える・自分の髪の毛束や一本を口に含むポーズ・ヤンデレキャラの狂気表現によく使用・一般的な乱れた様子を表現する場合もある・他者の髪を噛む場合はeating hairを使用・陰毛の場合はstray pubic hairを使用",
+      "tag": "hair in own mouth"
+    },
+    {
+      "ja": "自分の髪で遊ぶ動作",
+      "tag": "playing with own hair"
+    }
+  ],
+  "自分に対する動作・顔面部": [
+    {
+      "ja": "自分の顔に手を置く動作・多くの場合hand on own cheekと重複する・両手を使用する場合はhands on own faceを使用",
+      "tag": "hand on own face"
+    },
+    {
+      "ja": "両手で自分の顔に触れる状態",
+      "tag": "hands on own face"
+    },
+    {
+      "ja": "頬に手、頬杖・キャラクターの片手が自分の頬にある状態・両手を使用する場合はhands on own cheeksを使用",
+      "tag": "hand on own cheek"
+    },
+    {
+      "ja": "頬に手、頬杖（両手）他人の頬に手を置く場合はhands on another’s cheeksを使用",
+      "tag": "hands on own cheeks"
+    },
+    {
+      "ja": "自分の頭（通常は髪がある部分で、単に顔に触れる場合は含まない）に両手を置く状態・片手の場合はhand on own headを使用",
+      "tag": "hands on own head"
+    },
+    {
+      "ja": "自分の耳に触れている状態",
+      "tag": "hand on own ear"
+    },
+    {
+      "ja": "自分の片目の上に手を置く状態・目を隠している必要はない",
+      "tag": "hand over eye"
+    },
+    {
+      "ja": "自分の額に手を近づけるまたは置く状態",
+      "tag": "hand on own forehead"
+    },
+    {
+      "ja": "指で自分の頬を掻くしぐさ・恥ずかしさや照れ、不確かさを表現する際によく使用",
+      "tag": "scratching cheek"
+    },
+    {
+      "ja": "主に人差し指を頬に当てているポーズ",
+      "tag": "finger to cheek"
+    },
+    {
+      "ja": "複数の指を頬に当てているポーズ・主に両手の人差し指を使用・五本指の場合は平手打ちの可能性あり",
+      "tag": "fingers to cheeks"
+    },
+    {
+      "ja": "一本の指を顔に伸ばしているポーズ",
+      "tag": "finger to face"
+    },
+    {
+      "ja": "顔隠し、顔を覆う・手や物で顔を隠している状態",
+      "tag": "covering face"
+    },
+    {
+      "ja": "視界を遮る動作・顔を隠す目的や恥ずかしい場面での行動・他者が目を隠す場合はcovering another’s eyesを使用",
+      "tag": "covering own eyes"
+    },
+    {
+      "ja": "片目隠し・意図的に手や物で片目を隠すポーズ・意図的でない場合はone eye coveredを使用",
+      "tag": "covering one eye"
+    },
+    {
+      "ja": "耳塞ぎ・音を遮断したり恥ずかしさから自分の耳を覆う動作",
+      "tag": "covering own ears"
+    }
+  ],
+  "自分に対する動作・口元・顎・首": [
+    {
+      "ja": "顎に手・キャラクターが自分の顎に片手を置く状態・通常、キャラクターが深く考えているか退屈している状態を示す・両手を使用する場合はhands on own chinを使用",
+      "tag": "hand on own chin"
+    },
+    {
+      "ja": "顎に両手",
+      "tag": "hands on own chin"
+    },
+    {
+      "ja": "口を覆わずに手を口の近くに置く状態・あくびや笑いなどの際に見られる・口を覆う場合はhand over own mouthを使用",
+      "tag": "hand to own mouth"
+    },
+    {
+      "ja": "自分の口を手で覆う状態・手が口の近くにあるが覆っていない場合はhand to own mouthを使用",
+      "tag": "hand over own mouth"
+    },
+    {
+      "ja": "首に手・キャラクターが自分の首に片手を置く状態・両手を使用する場合はhands on own neckを使用",
+      "tag": "hand on own neck"
+    },
+    {
+      "ja": "指を口の近くに置くポーズ・口の中には入れていない状態・無邪気、可愛らしさ、色気を表現する際に使用・思考中を表現する場合もある",
+      "tag": "finger to mouth"
+    },
+    {
+      "ja": "自分の口に指を入れている状態・finger to mouthとは異なるが、あいまいな場合は両方のタグを使用",
+      "tag": "finger in own mouth"
+    },
+    {
+      "ja": "自分の顎に指を置くポーズ・物思いにふける、困惑、時には面白がりや得意げな様子を表現・他者の顎に指や手を置く場合はhand on another’s chinを使用",
+      "tag": "finger to own chin"
+    },
+    {
+      "ja": "自分の指を噛んでいる状態",
+      "tag": "biting own finger"
+    },
+    {
+      "ja": "自分の口を手で覆う動作",
+      "tag": "covering own mouth"
+    },
+    {
+      "ja": "自分の顎を撫でる動作・思考中や得意げな様子を表現・他者の顎を撫でる場合はstroking another’s chinを使用",
+      "tag": "stroking own chin"
+    }
+  ],
+  "自分に対する動作・肩・腕": [
+    {
+      "ja": "一人のキャラクターが自分の手を合わせる動作・二人以上のキャラクターの手が触れ合う場合はholding handsを参照",
+      "tag": "own hands together"
+    },
+    {
+      "ja": "自分の腕に片手を置く状態・両手を使用する場合はhands on own armsを使用",
+      "tag": "hand on own arm"
+    },
+    {
+      "ja": "自分の肩に片手を置く状態・両手を使用する場合はhands on own shouldersを使用",
+      "tag": "hand on own shoulder"
+    },
+    {
+      "ja": "自分の肘に片手を置く状態",
+      "tag": "hand on own elbow"
+    },
+    {
+      "ja": "自分の腕を持つ・他者の腕を持つ場合はholding another’s armを使用",
+      "tag": "holding own arm"
+    },
+    {
+      "ja": "自分の手首や前腕を持つ動作・他者の手首を持つ場合はholding another’s wristを使用",
+      "tag": "holding own wrist"
+    }
+  ],
+  "自分に対する動作・背部への接触": [
+    {
+      "ja": "片手後ろ手・腕を背中の後ろに回しているポーズ・自身または他者による行為で、性的・非性的な状況で使用・拘束がある場合はbondageを使用",
+      "tag": "arm behind back"
+    },
+    {
+      "ja": "後ろ手、後ろ手縛り・両腕を背中の後ろに回しているポーズ・自発的な仕草または拘束状態での強制的なポーズ",
+      "tag": "arms behind back"
+    },
+    {
+      "ja": "片手後頭部・キャラクターが片手または片腕を自身の頭の後ろに置いているポーズ・両腕の場合はarms behind headを使用",
+      "tag": "arm behind head"
+    },
+    {
+      "ja": "両手後頭部・キャラクターが両腕を自身の頭の後ろに置いているポーズ・他人の頭の後ろに腕を回している場合はarms around neckを使用",
+      "tag": "arms behind head"
+    }
+  ],
+  "自分に対する動作・胸部": [
+    {
+      "ja": "セルフ乳揉み・自分の胸を掴んで揉む動作で、多くの場合自慰や性行為中の性的満足のため・以下と区別する必要がある・breast lift：手で胸を持ち上げる動作・breast suppress：胸の上に手を乗せる動作・breasts squeezed together：胸を強く押し付ける動作・covering breasts：胸を持ち上げずに手で乳首を隠す動作・grabbing own flat chest：平らな胸の人が自分の胸を掴む動作・hand on own chest/hands on own chest：揉まずに胸に触れる動作・pectoral grab：男性の胸を掴む動作",
+      "tag": "grabbing own breast"
+    },
+    {
+      "ja": "胸に手、心臓を捧げよ・キャラクターが自分の胸に片手を置くまたは休ませる動作で、自分を愛撫したり揉んだりしない場合・両手を使用する場合はhands on own chestを使用",
+      "tag": "hand on own chest"
+    },
+    {
+      "ja": "胸に手（両手）・キャラクターが自分の胸に両手を置くまたは休ませる状態で、自分を愛撫したり揉んだりしない場合",
+      "tag": "hands on own chest"
+    },
+    {
+      "ja": "自分の胸に手を置く状態",
+      "tag": "hands on own breasts"
+    },
+    {
+      "ja": "片腕胸下支え・キャラクターの上腕部が胸の下にある状態・もう片方の腕は一般的に胸を覆うか体の横に置かれている・両腕の場合はarms under breastsを使用",
+      "tag": "arm under breasts"
+    },
+    {
+      "ja": "両腕胸下支え・腕を組んでいたり胸を覆っている場合によく見られる",
+      "tag": "arms under breasts"
+    },
+    {
+      "ja": "手ブラ、腕ブラ・片手または両手、腕で乳首や乳輪を覆うポーズ・breast holdとは異なる胸の隠し方",
+      "tag": "covering breasts"
+    },
+    {
+      "ja": "乳首隠し・手や指で乳首のみを隠すポーズ・胸の大部分や時には乳輪は露出したまま・主に手や指一本二本程度で隠す・腕全体は使用しない・covered nipplesとは異なる",
+      "tag": "covering nipples"
+    },
+    {
+      "ja": "片手ブラ、片腕ブラ・片方の胸の乳首と乳輪を手や腕で隠すポーズ",
+      "tag": "covering one breast"
+    },
+    {
+      "ja": "胸押さえ・自分の胸の上から片手または両手で押さえる",
+      "tag": "breast suppress"
+    },
+    {
+      "ja": "乳上げ・自分または他者の手で胸を持ち上げるポーズ・前腕で支える場合はbreast holdを使用・物体の上に乗せる場合はbreast restを使用",
+      "tag": "breast lift"
+    },
+    {
+      "ja": "乳乗せ、おっぱいプレート、おっぱいトレイ、のせてんのよ・胸を何かの上に乗せているポーズ",
+      "tag": "breast rest"
+    },
+    {
+      "ja": "寄せ乳・手や上腕で両胸を強く寄せ合わせるポーズ・単なる胸揉みの場合はgrabbing another’s breastを使用",
+      "tag": "breasts squeezed together"
+    }
+  ],
+  "自分に対する動作・腹部・腰": [
+    {
+      "ja": "腰に手・キャラクターが自分の腰に片手を置く動作・両手を腰に置く場合のhands on own hipsとは区別する",
+      "tag": "hand on own hip"
+    },
+    {
+      "ja": "腰に手・両手を腰に置き肘を外側に向ける姿勢・arms akimboまたは単にakimboとも呼ばれる",
+      "tag": "hands on own hips"
+    },
+    {
+      "ja": "自分の腹部に片手を置く状態・両手の場合はhands on own stomachを使用・他人の腹に片手を置く場合はhand on another’s stomachを使用・他人の腹に両手を置く場合はhands on another’s stomachを使用",
+      "tag": "hand on own stomach"
+    },
+    {
+      "ja": "自分の腹部に両手を置く状態",
+      "tag": "hands on own stomach"
+    },
+    {
+      "ja": "自分の腰に腕を回す",
+      "tag": "arm across waist"
+    }
+  ],
+  "自分に対する動作・尻": [
+    {
+      "ja": "自分の尻を掴む動作",
+      "tag": "grabbing own ass"
+    },
+    {
+      "ja": "自分の尻に片手を置く状態・両手の場合はhands on own assを使用・自分の尻を持ち上げる場合はass supportを使用",
+      "tag": "hand on own ass"
+    },
+    {
+      "ja": "自分の尻に両手を置く状態・自分の尻を持ち上げる場合はass supportを使用",
+      "tag": "hands on own ass"
+    },
+    {
+      "ja": "尻隠し・下着の有無に関わらず尻を隠そうとするポーズ",
+      "tag": "covering ass"
+    }
+  ],
+  "自分に対する動作・下腹部への接触": [
+    {
+      "ja": "自分のパンツの中に手を入れている状態",
+      "tag": "hand in own panties"
+    },
+    {
+      "ja": "自分の股間に手を置く状態",
+      "tag": "hand on own crotch"
+    },
+    {
+      "ja": "股に手・自分の局部が露出するのを防ぐため意図的に隠すポーズ・手や衣服、その他の物で隠す",
+      "tag": "covering crotch"
+    }
+  ],
+  "自分に対する動作・脚部": [
+    {
+      "ja": "脚の間の手、あしのあいだのて・キャラクターの手が脚の間に置かれている状態・自慰行為やskirt tugなどの他のアクションタグとは関連しない場合に使用・v armsやwarizaと組み合わせて使用されることが多い",
+      "tag": "hand between legs"
+    },
+    {
+      "ja": "腕が脚の間や内側に置かれている",
+      "tag": "arms between legs"
+    },
+    {
+      "ja": "腕が脚の間を通っているポーズ・膝や脚を上げている、または前かがみの状態で肘が太もも付近にある・hand between legsとの区別のためのタグ・arms between legsからの仮のエイリアス・hand between legsとの関連性について検討中",
+      "tag": "arm between legs"
+    },
+    {
+      "ja": "自分の太ももに片手を置く状態",
+      "tag": "hand on own thigh"
+    },
+    {
+      "ja": "自分の太ももに片手を置く状態（両手）・前かがみleaning forward、しゃがむsquatting、または正座時seizaの腕のサポートとしてよく使用される",
+      "tag": "hands on own thighs"
+    },
+    {
+      "ja": "自分の片方の膝に片手を置く状態・hands on own kneeやhands on own kneesとは区別する",
+      "tag": "hand on own knee"
+    },
+    {
+      "ja": "両手を両方の膝に置く状態で、一つの膝に一つの手を置く・hand on own kneeやhands on own kneeとは区別する",
+      "tag": "hands on own knees"
+    },
+    {
+      "ja": "自分の脚に片手を置く状態・両手を使用する場合はhands on own legsを使用",
+      "tag": "hand on own leg"
+    },
+    {
+      "ja": "自分の脚に両手を置く状態",
+      "tag": "hands on own legs"
+    },
+    {
+      "ja": "座るまたは膝をつき、少なくとも片手を膝の上に置いている状態・キャラクターが立っていて手を合わせている場合はv armsを使用",
+      "tag": "hands on lap"
+    },
+    {
+      "ja": "膝に腕・主に座っているポーズで使用・肘から手の間の腕の部分を自身の膝に置いている・arm on thighとは異なり、膝頭の上下付近に腕がある場合に使用",
+      "tag": "arm on knee"
+    },
+    {
+      "ja": "自分の足を持つ・自分の足や足首を持ったり触れたりするポーズ",
+      "tag": "holding own foot"
+    }
+  ],
+  "他者に対する動作・頭部への接触": [
+    {
+      "ja": "なでなで、頭なでなで・頭を撫でたり軽く叩いたりする動作",
+      "tag": "headpat"
+    },
+    {
+      "ja": "他人の頭の上に手を置く動作・両手を使用する場合はhands on another’s headを使用",
+      "tag": "hand on another’s head"
+    },
+    {
+      "ja": "他人の頭の上に手を置く動作（両手）",
+      "tag": "hands on another’s head"
+    },
+    {
+      "ja": "髪掴み、イラマチオハンドル・他人の髪を掴むまたは引っ張る動作",
+      "tag": "grabbing another’s hair"
+    },
+    {
+      "ja": "他人の頭部をしっかりと掴む動作・イラマチオirrumatioなどの明示的な口腔性交でよく見られる",
+      "tag": "head grab"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの髪の中や上を手で動かす状態",
+      "tag": "hand in another’s hair"
+    }
+  ],
+  "他者に対する動作・顔面部・首への接触": [
+    {
+      "ja": "キャラクターが他のキャラクターの顔のどこかに手を置く一般的なタグ・両手を使用する場合はhands on another’s faceを使用",
+      "tag": "hand on another’s face"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの顔のどこかに手を置く一般的なタグ（両手）",
+      "tag": "hands on another’s face"
+    },
+    {
+      "ja": "頬に手・キャラクターが他のキャラクターの頬に片手を置く状態・両手を使用する場合はhands on another’s cheeksを使用",
+      "tag": "hand on another’s cheek"
+    },
+    {
+      "ja": "頬に手（両手）",
+      "tag": "hands on another’s cheeks"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの首に片手を置く状態・後ろの首筋または前側のどちらでも・両手を使用する場合はhands on another’s neckを使用",
+      "tag": "hand on another’s neck"
+    },
+    {
+      "ja": "他人の顔を掴む動作",
+      "tag": "face grab"
+    },
+    {
+      "ja": "顎クイ・他人の顎または下顎の下側を触る動作で、動かす、固定する、またはコントロールする意図がある場合・そのような意図がない場合はstroking another’s chinが適切・自分の顎を掴むまたは触る場合は、finger to own chin、hand on own chin、stroking own chin、head restを参照",
+      "tag": "grabbing another’s chin"
+    },
+    {
+      "ja": "手で他人の首回りの装飾品を掴む動作・多くの場合、相手の注意を引くまたは近づけるために強く引っ張る・ネクタイの場合はnecktie grabも使用する",
+      "tag": "neckwear grab"
+    },
+    {
+      "ja": "手で他人のネクタイを掴む動作・相手の注意を引くまたは近づけるために強く引っ張ることが多い・adjusting necktieとは異なる・多くの場合、二人のキャラクター間での支配の表現として使用される",
+      "tag": "necktie grab"
+    },
+    {
+      "ja": "他人の耳を掴むまたは引っ張る動作",
+      "tag": "grabbing another’s ear"
+    },
+    {
+      "ja": "キャラクターが他人の耳に触れている状態",
+      "tag": "hand on another’s ear"
+    },
+    {
+      "ja": "舌引っ張り・指または挟む道具を使用して他人の舌を掴む動作",
+      "tag": "tongue grab"
+    },
+    {
+      "ja": "主に手で他者の目を隠す動作",
+      "tag": "covering another’s eyes"
+    }
+  ],
+  "他者に対する動作・口元・顎・首": [
+    {
+      "ja": "顎に手・キャラクターが他のキャラクターの顎に触れる状態",
+      "tag": "hand on another’s chin"
+    },
+    {
+      "ja": "ハンドギャグ・キャラクターが他人の口を手で覆う状態",
+      "tag": "hand over another’s mouth"
+    },
+    {
+      "ja": "他者の首の後ろに片腕を回す",
+      "tag": "arm around neck"
+    },
+    {
+      "ja": "他者の首の後ろに両腕を回す・しばしばハグの一部として見られる",
+      "tag": "arms around neck"
+    },
+    {
+      "ja": "口内指責め・他者の口に指を入れている状態",
+      "tag": "finger in another’s mouth"
+    },
+    {
+      "ja": "他者の口に指を当てている・主に相手を黙らせる動作として使用",
+      "tag": "finger to another’s mouth"
+    },
+    {
+      "ja": "他者の口を塞ぐ",
+      "tag": "covering another’s mouth"
+    }
+  ],
+  "他者に対する動作・肩・腕への接触": [
+    {
+      "ja": "握りラブ、握り、恋人繋ぎ、恋人つなぎ・二人以上のキャラクターの手が触れ合う動作",
+      "tag": "holding hands"
+    },
+    {
+      "ja": "手つなぎ、手繋ぎ・二人のキャラクターの間で、一方のキャラクターが他方の手を積極的に掴む動作・holding hands（手をつなぐ）とは異なる",
+      "tag": "hand grab"
+    },
+    {
+      "ja": "片手で他人の腕を掴む動作・両手を使用する場合はarm hugを検討する",
+      "tag": "grabbing another’s arm"
+    },
+    {
+      "ja": "互いの腕を肘の内側で組み合わせる・背中合わせの運動などでも見られる",
+      "tag": "locked arms"
+    },
+    {
+      "ja": "他者の腕を両腕で抱きしめる・片腕だけを組む場合はlocked armsを使用",
+      "tag": "arm hug"
+    },
+    {
+      "ja": "他者の腕を持つ動作・自分の腕を持つ場合はholding own armを使用・両腕を使用する場合はarm hugを使用",
+      "tag": "holding another’s arm"
+    },
+    {
+      "ja": "キャラクターの片手が他のキャラクターの肩にある状態・両手を使用する場合はhands on another’s shouldersを使用",
+      "tag": "hand on another’s shoulder"
+    },
+    {
+      "ja": "キャラクターの両手が他のキャラクターの肩にある状態",
+      "tag": "hands on another’s shoulders"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの腕に片手を置く状態・両手を使用する場合はhands on another’s armを使用・両腕に手を置く場合はhands on another’s armsを使用",
+      "tag": "hand on another’s arm"
+    },
+    {
+      "ja": "二人でハート、比心(二人)・二人のキャラクターが協力して一つのハートハンドのポーズを作る状態・一人だけが貢献している場合はheart hands failureを使用",
+      "tag": "heart hands duo"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの手に片手を置く状態",
+      "tag": "hand on another’s hand"
+    },
+    {
+      "ja": "他者の肩に片腕を回す",
+      "tag": "arm around shoulder"
+    },
+    {
+      "ja": "腕を引かれる・他者に片腕または両腕を後ろに引かれている状態・腕掴みの一種",
+      "tag": "arm held back"
+    },
+    {
+      "ja": "他者の肩に腕・hand on shoulderとは異なる・可能な場合はarm around shoulderまたはarm around neckを使用",
+      "tag": "arm on another’s shoulder"
+    },
+    {
+      "ja": "指切り・二人が小指を絡ませるポーズ・約束の印として使用・控えめな愛情表現としても使用",
+      "tag": "pinky swear"
+    }
+  ],
+  "他者に対する動作・背部への接触": [
+    {
+      "ja": "キャラクターが他のキャラクターの背中に片手を置く状態・両手を使用する場合はhands on another’s backを使用",
+      "tag": "hand on another’s back"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの背中に両手を置く状態",
+      "tag": "hands on another’s back"
+    }
+  ],
+  "他者に対する動作・胸部への接触": [
+    {
+      "ja": "乳鷲掴み、乳揉み、揉奶、背後から胸揉み、後ろから乳揉み、从背后揉奶、服の中で乳揉み、肩を組んで乳揉み・他人の胸を掴んで揉む動作・以下と区別する必要がある・breast lift：手で胸を持ち上げる動作・breasts squeezed together：胸を強く押し付ける動作・covering breasts：胸を持ち上げずに手で乳首を隠す動作・flat chest grab：平らな胸を掴む動作・hand on another’s chest/hands on another’s chest：揉まずに胸に触れる動作",
+      "tag": "grabbing another’s breast"
+    },
+    {
+      "ja": "背後から胸揉み、背後から乳揉み、後ろから乳揉み・後ろから相手の体を掴む動作・胸を掴む動作とよく組み合わさるが、それに限定されない",
+      "tag": "grabbing from behind"
+    },
+    {
+      "ja": "セルフ胸タッチ・grabbing another’s breastの変形で、誰か（通常は胸を触られる側だが、必ずしもそうとは限らない）が意図的に他人の手を胸に導く動作",
+      "tag": "guided breast grab"
+    },
+    {
+      "ja": "キャラクターが他人の胸に片手を置く状態・両手の場合はhands on another’s chestを使用・grabbing another’s breastやpectoral grabと関連する可能性があるが、必ずしもそうとは限らない",
+      "tag": "hand on another’s chest"
+    },
+    {
+      "ja": "キャラクターが他人の胸に両手を置く状態",
+      "tag": "hands on another’s chest"
+    },
+    {
+      "ja": "平らな胸のキャラクターの胸を掴まれる動作",
+      "tag": "flat chest grab"
+    },
+    {
+      "ja": "男性の胸部を揉む動作",
+      "tag": "pectoral grab"
+    },
+    {
+      "ja": "乳合わせ、胸合わせ、おっぱいキス・ほぼ同じサイズの胸同士を押し付け合うポーズ・サイズ差がある場合はasymmetrical dockingを使用・勇者王ガオガイガーの合体技が語源・胸が重なっている場合はbreast on breastを使用",
+      "tag": "symmetrical docking"
+    },
+    {
+      "ja": "乳合わせ、胸合わせ、おっぱいキス・サイズ差のある胸同士を押し付け合うポーズ・胸の位置が非対称な場合も含む",
+      "tag": "asymmetrical docking"
+    }
+  ],
+  "他者に対する動作・胴体・腹部・腰への接触": [
+    {
+      "ja": "他人の胴体を手で掴む動作",
+      "tag": "torso grab"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの腰に片手を置く状態・両手を使用する場合はhands on another’s hipsを使用",
+      "tag": "hand on another’s hip"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの腹部の横側である腰に片手を置く状態・両手を使用する場合はhands on another’s waistを使用",
+      "tag": "hand on another’s waist"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの腹部の横側である腰に両手を置く状態",
+      "tag": "hands on another’s waist"
+    },
+    {
+      "ja": "キャラクターが他人の腹部に片手を置く状態・他人の腹に両手を置く場合はhands on another’s stomachを使用・自分の腹に片手を置く場合はhand on own stomachを使用・自分の腹に両手を置く場合はhands on own stomachを使用",
+      "tag": "hand on another’s stomach"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの太もも上の腰に両手を置く状態・片手の場合はhand on another’s hipを使用",
+      "tag": "hands on another’s hips"
+    },
+    {
+      "ja": "他者の腰に片腕を回す",
+      "tag": "arm around waist"
+    },
+    {
+      "ja": "他者の腰に両腕を回す",
+      "tag": "arms around waist"
+    }
+  ],
+  "他者に対する動作・尻への接触": [
+    {
+      "ja": "他人の尻を掴む・自分の尻を掴む動作とは区別する",
+      "tag": "grabbing another’s ass"
+    },
+    {
+      "ja": "誰かが他人の尻に手を置く状態 (hand on ass)",
+      "tag": "hand on another’s ass"
+    }
+  ],
+  "他者に対する動作・下腹部への接触": [
+    {
+      "ja": "他人のパンツの中に手を入れている状態",
+      "tag": "hand in another’s panties"
+    }
+  ],
+  "他者に対する動作・脚部への接触": [
+    {
+      "ja": "他人の片方または両方の太ももを掴む動作",
+      "tag": "thigh grab"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの太ももに片手を置く状態・両手を使用する場合はhands on another’s thighsを使用",
+      "tag": "hand on another’s thigh"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの太ももに両手を置く状態",
+      "tag": "hands on another’s thighs"
+    },
+    {
+      "ja": "キャラクターが他人の脚に片手を置く状態・両手を使用する場合はhands on another’s legを使用",
+      "tag": "hand on another’s leg"
+    },
+    {
+      "ja": "キャラクターが他人の膝に片手を置く状態・両手を使用する場合はhands on another’s kneesを使用",
+      "tag": "hand on another’s knee"
+    }
+  ],
+  "限定されない動作・頭部": [
+    {
+      "ja": "頭に手を当てる・曖昧なタグのため使用しないこと",
+      "tag": "hand on head"
+    },
+    {
+      "ja": "キャラクターが自分の頭に手を近づけている状態・実際に触れている必要はない",
+      "tag": "hand to head"
+    }
+  ],
+  "限定されない動作・顔面部・首への接触": [
+    {
+      "ja": "首をつかむ・曖昧なタグのため使用しないこと",
+      "tag": "neck grab"
+    },
+    {
+      "ja": "額に手を当てる・曖昧なタグのため使用しないこと",
+      "tag": "hand on forehead"
+    },
+    {
+      "ja": "顔に手を当てる・曖昧なタグのため使用しないこと",
+      "tag": "hand over face"
+    },
+    {
+      "ja": "頬つねり・自分や他者の頬をつねる動作・夢かどうかの確認に使用・子供への頭なでの代わりとしても使用",
+      "tag": "cheek pinching"
+    }
+  ],
+  "限定されない動作・肩・腕・手": [
+    {
+      "ja": "腕をつかむ・曖昧な表現のため、holding own armまたはgrabbing another’s armを使用すること",
+      "tag": "arm grab"
+    },
+    {
+      "ja": "肩をつかむ・曖昧なタグのため使用しないこと",
+      "tag": "shoulder grab"
+    },
+    {
+      "ja": "肩に手を当てる・曖昧なタグのため使用しないこと・hand on own shoulderまたはhand on another’s shoulderを使用する",
+      "tag": "hand on shoulder"
+    },
+    {
+      "ja": "肩に両手を当てる・曖昧なタグのため使用しないこと",
+      "tag": "hands on shoulders"
+    },
+    {
+      "ja": "指を組む、手と手ラブ・指を組み合わせる・からませるポーズ・以下の場合は追加タグが必要・他者と指を組む場合はholding handsを追加・自分の手で行い手のひらが触れ合う場合はown hands claspedを追加",
+      "tag": "interlocked fingers"
+    }
+  ],
+  "限定されない動作・胸部": [
+    {
+      "ja": "服の中で乳揉み・誰かの服の下に手を入れる動作・自分の服の下に手を入れる場合も、他人の服の下に手を入れる場合も含む",
+      "tag": "hand under clothes"
+    },
+    {
+      "ja": "胸に手を当てる・曖昧なタグのため使用しないこと（hand on breastsも同様）",
+      "tag": "hand on breast"
+    },
+    {
+      "ja": "腕や手が胸の間に位置する状態・自身または他者の腕が該当",
+      "tag": "arm between breasts"
+    }
+  ],
+  "限定されない動作・胴体・腹部・腰への接触": [
+    {
+      "ja": "自分または他人の腹部を掴む動作・自分の場合は体重への不満を表現する方法として、他人の場合は太り過ぎを揶揄する方法として使用されることが多い",
+      "tag": "belly grab"
+    },
+    {
+      "ja": "キャラクターが自分または他人のシャツの下に手を入れている状態",
+      "tag": "hand under shirt"
+    }
+  ],
+  "限定されない動作・尻への接触": [
+    {
+      "ja": "尻揉み・grabbing own assまたはgrabbing another’s assを参照",
+      "tag": "ass grab"
+    },
+    {
+      "ja": "尻に手を当てる・曖昧な表現のため、hand on own assまたはgrabbing another’s assを使用する",
+      "tag": "hands on ass"
+    },
+    {
+      "ja": "臀部開張、尻開き・両手で臀部を開く動作",
+      "tag": "spread ass"
+    },
+    {
+      "ja": "肛門開張、肛門拡張・内部が見える程度まで開かれている状態",
+      "tag": "spread anus"
+    }
+  ],
+  "限定されない動作・下腹部への接触": [
+    {
+      "ja": "股間を掴む行為・自身または他者への行為・露出時はpenis grabを使用・masturbationやhandjobとは区別",
+      "tag": "crotch grab"
+    },
+    {
+      "ja": "手による刺激なしにペニスを掴むまたは持つ動作・多くの場合、フェラチオや挿入を補助する目的で行われる・masturbationやhandjobの場合は使用しない・露出したペニスにのみ適用され、膨らみを掴む場合はcrotch grabを使用する",
+      "tag": "penis grab"
+    },
+    {
+      "ja": "玉揉み、玉責め・睾丸を掴む動作",
+      "tag": "testicle grab"
+    }
+  ],
+  "限定されない動作・脚部": [
+    {
+      "ja": "足をつかむ・自分または他人の足を掴む動作・立っている他人の足を掴む場合、通常キャラクター間に身長差がある",
+      "tag": "leg grab"
+    },
+    {
+      "ja": "自分または他人の足首を掴む動作",
+      "tag": "ankle grab"
+    },
+    {
+      "ja": "自分または他人の太ももの上向きの部分である膝の上に片手を置く状態",
+      "tag": "hand on lap"
+    },
+    {
+      "ja": "自分または他人の足に手を置く状態",
+      "tag": "hands on feet"
+    },
+    {
+      "ja": "太ももに手を当てる・曖昧なタグのため使用しないこと",
+      "tag": "hand on thigh"
+    }
+  ],
+  "その他の関連動作": [
+    {
+      "ja": "紳士ハンド・人に接続されていないように見える浮遊する手・通常、被写体をはっきりと見せるためにキャラクターの体は描かれない・キャラクターの体が単にフレーム外にある場合やPOVショットで見えない場合は使用しない",
+      "tag": "disembodied hand"
+    },
+    {
+      "ja": "掴みシーツ、シーツつかみ・ベッドのシーツを掴む動作・性行為中によく見られる",
+      "tag": "sheet grab"
+    },
+    {
+      "ja": "自分または他人の服を掴むまたは持つ動作・服を動かす意図（下着を露出させたり、覆い隠したりする）がない場合に使用・また、悲しんだり、不機嫌な様子で、相手の注意を引くために軽く服を引っ張る動作も表す・shirt tugやshirt pullとは区別する",
+      "tag": "clothes grab"
+    },
+    {
+      "ja": "パンツの中に手・誰かのパンツの中に手を入れている状態・必ずしも着用者の手とは限らない・hand in braも参照",
+      "tag": "hand in panties"
+    },
+    {
+      "ja": "他人のシャツを掴む動作・相手を引き寄せるまたは掴まる",
+      "tag": "shirt grab"
+    },
+    {
+      "ja": "他人の袖を掴む動作・多くの場合相手の注意を引こうとする際に行われる",
+      "tag": "sleeve grab"
+    },
+    {
+      "ja": "手を反対側の広い袖の中に完全に入れている状態・対応する袖で手が覆われているsleeves past fingersとは区別する",
+      "tag": "hands in opposite sleeves"
+    },
+    {
+      "ja": "他人のシャツの襟を掴む動作・通常は脅しや攻撃の意図で行われるが、キスの際にも発生することがある",
+      "tag": "collar grab"
+    },
+    {
+      "ja": "一つまたは複数の枕を掴む動作",
+      "tag": "pillow grab"
+    },
+    {
+      "ja": "カーテンを掴む動作",
+      "tag": "curtain grab"
+    },
+    {
+      "ja": "尻尾を掴む動作・尻尾が何かを掴む場合は、holding with tail、tail wrap、tail around leg、prehensile tailを参照",
+      "tag": "tail grab"
+    },
+    {
+      "ja": "他人の角を掴まれる動作",
+      "tag": "horn grab"
+    },
+    {
+      "ja": "手で触手を掴むまたは持つ動作・多くの場合、合意のある触手または押しのける試みを含む・触手に掴まれる場合は、対応する*_grabタグを使用する",
+      "tag": "tentacle grab"
+    },
+    {
+      "ja": "キャラクターが自分の剣の柄に手を触れるまたは置く状態・通常、抜かれた状態で地面に突き立てられている・武器を握って抜く場合はunsheathingをタグ付けする",
+      "tag": "hand on hilt"
+    },
+    {
+      "ja": "キャラクターが他のキャラクターの手を特定の場所（体の部分を含む）に導くように誘導する状態",
+      "tag": "guiding hand"
+    },
+    {
+      "ja": "誰かの手の甲や指にキスをする状態・通常、挨拶や敬意の印として行われる",
+      "tag": "kissing hand"
+    },
+    {
+      "ja": "驚きの腕・予期せぬ出来事への反射的な反応として・上腕部の前で前腕を上げるポーズ・拳を握っている場合もある",
+      "tag": "surprised arms"
+    },
+    {
+      "ja": "局部を隠す・恥ずかしさや照れから局部を隠す動作・他者を焦らす意図で行う場合もある",
+      "tag": "covering privates"
+    },
+    {
+      "ja": "口が隠れている・キャラクターの口が視界から隠れている状態・必ずしも物が顔に触れている必要はない・スカーフ、マスク、ハイカラー等の衣服・本、箱、枕等の物体・手、指等の体の部分で隠れている",
+      "tag": "covered mouth"
+    },
+    {
+      "ja": "目が隠れている・キャラクターの目が完全に隠れている状態・髪、衣服（目隠し、帽子など）、花などで隠れている・視点角度による場合もある",
+      "tag": "covered eyes"
+    },
+    {
+      "ja": "顔が何かで隠れている状態・全体または目や口などの部分的な場合もある",
+      "tag": "covered face"
+    },
+    {
+      "ja": "自分の尻尾を持つ",
+      "tag": "holding own tail"
+    },
+    {
+      "ja": "自分の尻尾を抱きしめる",
+      "tag": "hugging own tail"
+    },
+    {
+      "ja": "自分の脚に尻尾を巻きつけている",
+      "tag": "tail around own leg"
+    }
+  ],
+  "座り方・足の姿勢・動作🧎🦵": [],
+  "座り方🧎": [
+    {
+      "ja": "しゃがむ・足の裏だけで体重を支える姿勢・膝を曲げた状態で、お尻は地面につけない・膝が地面につく場合はkneeling",
+      "tag": "squatting"
+    },
+    {
+      "ja": "あぐら",
+      "tag": "indian style"
+    },
+    {
+      "ja": "正座",
+      "tag": "seiza"
+    },
+    {
+      "ja": "自分の脚を抱える、体育座り",
+      "tag": "hugging own legs"
+    },
+    {
+      "ja": "割り座、女の子座り・お尻を床につけ、両足を左右に開く",
+      "tag": "wariza"
+    },
+    {
+      "ja": "横向きに座る",
+      "tag": "sitting sideways"
+    },
+    {
+      "ja": "横座り・正座から片側に足を崩した座り方",
+      "tag": "yokozuwari"
+    }
+  ],
+  "上下関係のある体位": [
+    {
+      "ja": "馬乗り、またがる・物や人の上に両足を開いて跨る姿勢",
+      "tag": "straddling"
+    },
+    {
+      "ja": "騎乗位・通常は膝をつく形だが、足の裏で立つ変形もある",
+      "tag": "cowgirl position"
+    },
+    {
+      "ja": "太ももにまたがる",
+      "tag": "thigh straddling"
+    },
+    {
+      "ja": "背面騎乗位・体の向きが反対になる点が特徴",
+      "tag": "reverse cowgirl position"
+    },
+    {
+      "ja": "対面座位・相手の正面から跨って座る姿勢",
+      "tag": "upright straddle"
+    },
+    {
+      "ja": "M字騎乗位・膝をつかず、足の裏で立つ",
+      "tag": "squatting cowgirl position"
+    },
+    {
+      "ja": "背面座位・相手の背面から跨って座る姿勢",
+      "tag": "reverse upright straddle"
+    },
+    {
+      "ja": "女性上位、女攻め・女性側が主導権を持つ状況",
+      "tag": "femdom"
+    },
+    {
+      "ja": "女性上位、女性優位・上位に位置することが多い・状況をコントロール・主体的に行動・表情が明るい",
+      "tag": "assertive female"
+    }
+  ],
+  "足の開き方": [
+    {
+      "ja": "足を広げる・立位の場合は通常legs apart",
+      "tag": "spread legs"
+    },
+    {
+      "ja": "立位開脚・立っているときに足が開いている状態",
+      "tag": "legs apart"
+    },
+    {
+      "ja": "足を大きく広げる",
+      "tag": "wide spread legs"
+    },
+    {
+      "ja": "Y字バランス、I字バランス・片足で立ちながら、もう片方の足を高く上げて垂直に近い状態にする姿勢",
+      "tag": "standing split"
+    },
+    {
+      "ja": "開脚・体操や武道で重要な基本姿勢",
+      "tag": "split"
+    },
+    {
+      "ja": "M字開脚・両脚でM字を形成する基準となる位置関係：・足：臀部付近の高さ・膝：胸部付近の高さ",
+      "tag": "m legs"
+    },
+    {
+      "ja": "膝を合わせて足を開く",
+      "tag": "knees together feet apart"
+    },
+    {
+      "ja": "V字開脚・膝はほぼ伸びている・脚全体でV字を形成する",
+      "tag": "v legs"
+    },
+    {
+      "ja": "膝を開いて足を閉じる",
+      "tag": "knees apart feet together"
+    },
+    {
+      "ja": "がに股、蟹股ポージング",
+      "tag": "bowlegged pose"
+    },
+    {
+      "ja": "脚を揃える・両脚をぴったりとくっつける",
+      "tag": "legs together"
+    }
+  ],
+  "足の組み方": [
+    {
+      "ja": "足を組む",
+      "tag": "crossed legs"
+    },
+    {
+      "ja": "立った状態で脚を交差させる",
+      "tag": "watson cross"
+    },
+    {
+      "ja": "足首を組む",
+      "tag": "crossed ankles"
+    },
+    {
+      "ja": "だいしゅきホールド",
+      "tag": "leg lock"
+    }
+  ],
+  "つま先・足の伸展": [
+    {
+      "ja": "つま先立ち",
+      "tag": "tiptoes"
+    },
+    {
+      "ja": "脚を伸ばす・片脚を完全に伸ばした姿勢",
+      "tag": "outstretched leg"
+    },
+    {
+      "ja": "足底屈・足首を伸ばして、つま先を下に向ける",
+      "tag": "plantar flexion"
+    },
+    {
+      "ja": "脚を伸ばす・両脚を完全に伸ばした姿勢",
+      "tag": "outstretched legs"
+    },
+    {
+      "ja": "開き足指・足指が開かれている状態",
+      "tag": "spread toes"
+    }
+  ],
+  "膝を使う体勢": [
+    {
+      "ja": "片膝をつく",
+      "tag": "on one knee"
+    },
+    {
+      "ja": "両膝が空中にある状態・座ったり、横になったり、足を曲げて浮いたりした結果",
+      "tag": "knees up"
+    },
+    {
+      "ja": "ひざまずく",
+      "tag": "kneeling"
+    },
+    {
+      "ja": "片ひざを上げる",
+      "tag": "knee up"
+    },
+    {
+      "ja": "胎児姿勢・体を丸めてうずくまる",
+      "tag": "fetal position"
+    },
+    {
+      "ja": "膝を胸に引き寄せる",
+      "tag": "knees to chest"
+    }
+  ],
+  "基本立位姿勢🦵": [
+    {
+      "ja": "立つ",
+      "tag": "standing"
+    },
+    {
+      "ja": "ｺﾝﾄﾗﾎﾟｽﾄ（自然な立ち姿勢）体重を片方の脚に乗せ、もう一方の脚を緩めた立ち姿",
+      "tag": "contrapposto"
+    },
+    {
+      "ja": "片足で立つ",
+      "tag": "standing on one leg"
+    }
+  ],
+  "上半身の動き": [
+    {
+      "ja": "かがむ (上体を前に曲げる)",
+      "tag": "bent over"
+    },
+    {
+      "ja": "そり返った背中",
+      "tag": "arched back"
+    },
+    {
+      "ja": "ひねった胴体",
+      "tag": "twisted torso"
+    }
+  ],
+  "脚の動作": [
+    {
+      "ja": "片脚上げ・1本の脚を空中に持ち上げる",
+      "tag": "leg up"
+    },
+    {
+      "ja": "片脚挙げ (意図的)・片足は地面についており、もう片方が空中にある状態・両脚を大きく開く姿勢",
+      "tag": "leg lift"
+    },
+    {
+      "ja": "足両脚上げ・両足を地面から離して空中に上げた姿勢",
+      "tag": "legs up"
+    }
+  ],
+  "手持ちタグ🧺": [
+    {
+      "ja": "物を手で持っている（基本）・手で持てる大きさの物体のみ・体の一部を持つ場合は除外・着用中の衣服を持つ場合は除外・手以外で持つ場合は除外",
+      "tag": "holding"
+    },
+    {
+      "ja": "マイクを持っている",
+      "tag": "holding microphone"
+    },
+    {
+      "ja": "携帯電話を手で持っている・肩で受話器を挟む場合はcradling phoneを使用",
+      "tag": "holding phone"
+    },
+    {
+      "ja": "楽器を持っている",
+      "tag": "holding instrument"
+    },
+    {
+      "ja": "本を持っている（単数・複数可）",
+      "tag": "holding book"
+    },
+    {
+      "ja": "傘を持っている",
+      "tag": "holding umbrella"
+    },
+    {
+      "ja": "棒を持つ、木の枝を持つ",
+      "tag": "holding stick"
+    },
+    {
+      "ja": "花を持っている（1輪以上）",
+      "tag": "holding flower"
+    },
+    {
+      "ja": "杖や棒を持っている",
+      "tag": "holding staff"
+    },
+    {
+      "ja": "花束を持っている",
+      "tag": "holding bouquet"
+    },
+    {
+      "ja": "衣服を持っている・着ていない服を持つ場合holding unworn clothes・着用中の服を持ち上げるclothes lift・着用中の服を引き下げるclothes pull",
+      "tag": "holding clothes"
+    },
+    {
+      "ja": "ぬいぐるみを持っている",
+      "tag": "holding stuffed toy"
+    },
+    {
+      "ja": "食べ物を持っている",
+      "tag": "holding food"
+    },
+    {
+      "ja": "バッグを持っている",
+      "tag": "holding bag"
+    },
+    {
+      "ja": "果物を持っている",
+      "tag": "holding fruit"
+    },
+    {
+      "ja": "ボトルを持っている",
+      "tag": "holding bottle"
+    },
+    {
+      "ja": "カップ類を持っている・ワイングラスをボウル部分で持つ場合はcupping glassも追加",
+      "tag": "holding cup"
+    },
+    {
+      "ja": "ポケボールを持っている",
+      "tag": "holding poke ball"
+    },
+    {
+      "ja": "皿を持っている",
+      "tag": "holding plate"
+    },
+    {
+      "ja": "動物を抱いている動物を持っている",
+      "tag": "holding animal"
+    },
+    {
+      "ja": "トレイを持っている",
+      "tag": "holding tray"
+    },
+    {
+      "ja": "扇子、うちわを持っている",
+      "tag": "holding fan"
+    },
+    {
+      "ja": "キャンディ、飴を持つ・口に入れている場合はfood in mouthを使用",
+      "tag": "holding candy"
+    },
+    {
+      "ja": "プレゼントを持っている",
+      "tag": "holding gift"
+    },
+    {
+      "ja": "帽子を持つ・着用中の場合はhand on headwearまたはhands on headwearを使用",
+      "tag": "holding hat"
+    },
+    {
+      "ja": "ペンを持つ",
+      "tag": "holding pen"
+    },
+    {
+      "ja": "紙を持つ",
+      "tag": "holding paper"
+    },
+    {
+      "ja": "ボールを持つ",
+      "tag": "holding ball"
+    },
+    {
+      "ja": "箸を持つ",
+      "tag": "holding chopsticks"
+    },
+    {
+      "ja": "外したメガネを持つ・鼻や頭に載せている場合はadjusting eyewear関連のタグを使用",
+      "tag": "holding removed eyewear"
+    },
+    {
+      "ja": "スプーンを持つ",
+      "tag": "holding spoon"
+    },
+    {
+      "ja": "カメラを持つ",
+      "tag": "holding camera"
+    },
+    {
+      "ja": "フォークを持つ",
+      "tag": "holding fork"
+    },
+    {
+      "ja": "缶を持つ・じょうろの場合はholding watering can",
+      "tag": "holding can"
+    },
+    {
+      "ja": "カードを持つ",
+      "tag": "holding card"
+    },
+    {
+      "ja": "タバコを持つ",
+      "tag": "holding cigarette"
+    }
+  ],
+  "位置・接触関係の前置詞表現📌": [],
+  "「sitting on ~」関連": [
+    {
+      "ja": "座る・お尻を面 (椅子やソファなど)につけて体重を支える",
+      "tag": "sitting"
+    },
+    {
+      "ja": "椅子に座っている",
+      "tag": "sitting on chair"
+    },
+    {
+      "ja": "人の上に座る",
+      "tag": "sitting on person"
+    },
+    {
+      "ja": "机の上に座っている",
+      "tag": "sitting on desk"
+    },
+    {
+      "ja": "膝の上に座る",
+      "tag": "sitting on lap"
+    },
+    {
+      "ja": "ベンチに座っている",
+      "tag": "sitting on bench"
+    },
+    {
+      "ja": "顔の上に座る、顔面騎乗",
+      "tag": "sitting on face"
+    },
+    {
+      "ja": "後ろ向きに座る、逆座り",
+      "tag": "sitting backwards"
+    },
+    {
+      "ja": "肩の上に座る",
+      "tag": "sitting on shoulder"
+    },
+    {
+      "ja": "階段に座る",
+      "tag": "sitting on stairs"
+    },
+    {
+      "ja": "頭の上に座る",
+      "tag": "sitting on head"
+    },
+    {
+      "ja": "木に座っている",
+      "tag": "sitting in tree"
+    },
+    {
+      "ja": "腕の上に座る",
+      "tag": "sitting on arm"
+    },
+    {
+      "ja": "枝の上に座る",
+      "tag": "sitting on branch"
+    },
+    {
+      "ja": "切り株に座る",
+      "tag": "sitting on tree stump"
+    },
+    {
+      "ja": "水の上に座る",
+      "tag": "sitting on water"
+    },
+    {
+      "ja": "丸太に座る",
+      "tag": "sitting on log"
+    },
+    {
+      "ja": "動物の上に座る",
+      "tag": "sitting on animal"
+    },
+    {
+      "ja": "岩の上に座っている",
+      "tag": "sitting on rock"
+    },
+    {
+      "ja": "食べ物の上に座る",
+      "tag": "sitting on food"
+    },
+    {
+      "ja": "物体の上に座る",
+      "tag": "sitting on object"
+    },
+    {
+      "ja": "鳥居の上に座る",
+      "tag": "sitting on torii"
+    },
+    {
+      "ja": "箱の上に座る",
+      "tag": "sitting on box"
+    },
+    {
+      "ja": "ボールの上に座る",
+      "tag": "sitting on ball"
+    },
+    {
+      "ja": "車の上に座る",
+      "tag": "sitting on car"
+    },
+    {
+      "ja": "フェンスの上に座る",
+      "tag": "sitting on fence"
+    },
+    {
+      "ja": "屋根の上に座る",
+      "tag": "sitting on roof"
+    },
+    {
+      "ja": "枕の上に座る",
+      "tag": "sitting on pillow"
+    },
+    {
+      "ja": "窓辺に座る",
+      "tag": "sitting in window"
+    }
+  ],
+  "「on + 物」関連": [
+    {
+      "ja": "ベッドの上・bedやfutonの上でlying、sitting",
+      "tag": "on bed"
+    },
+    {
+      "ja": "椅子の上・椅子上での全ての姿勢",
+      "tag": "on chair"
+    },
+    {
+      "ja": "ソファの上・ソファの上での様々な姿勢",
+      "tag": "on couch"
+    },
+    {
+      "ja": "机の上・机を手や腕で支えている場合はagainst deskを使用",
+      "tag": "on desk"
+    },
+    {
+      "ja": "手すりの上・お尻全体が手すりの上にある場合のみ。もたれかかっている場合はagainst railing",
+      "tag": "on railing"
+    },
+    {
+      "ja": "テーブルの上",
+      "tag": "on table"
+    },
+    {
+      "ja": "屋根の上",
+      "tag": "on roof"
+    },
+    {
+      "ja": "ベンチの上",
+      "tag": "on bench"
+    },
+    {
+      "ja": "床の上・室内の床での姿勢・屋外の場合はon groundを使用",
+      "tag": "on floor"
+    },
+    {
+      "ja": "乗り物の上・より具体的なタグを使用推奨on car,on motorcycleなど",
+      "tag": "on vehicle"
+    },
+    {
+      "ja": "地面の上・grass,dirt,sandpavementなどあらゆる地表・beach towelやblanketの上でも使用可",
+      "tag": "on ground"
+    },
+    {
+      "ja": "草の上",
+      "tag": "on grass"
+    }
+  ],
+  "人との接触関連🐶+「～on head」関連🐦": [
+    {
+      "ja": "頭の上・誰かの頭の上にいる生物・物体の場合はobject on head",
+      "tag": "on head"
+    },
+    {
+      "ja": "肩の上・誰かの肩の上に乗っている動物や人・無生物の場合はover shoulder",
+      "tag": "on shoulder"
+    },
+    {
+      "ja": "膝の上・誰かの膝の上にいる動物・人が膝の上にいる場合はsitting on lap,lying on laplap pillowを使用",
+      "tag": "on lap"
+    },
+    {
+      "ja": "人の上・体の一部が他人の上に乗っている状態・完全に横たわっている場合はlying on person",
+      "tag": "on person"
+    },
+    {
+      "ja": "動物が誰かの頭や帽子の上で休んでいる状態・ぬいぐるみstuffed animalも含む",
+      "tag": "animal on head"
+    },
+    {
+      "ja": "通常の頭飾り以外の物体が頭の上にある状態・顔を覆う場合はover head・偶発的に置かれた物体に使用装飾品との区別：帽子のデザインの一部→ ornament系タグ髪の装飾品→ hair ornament系タグ偶然置かれた物→ on head系タグ",
+      "tag": "object on head"
+    },
+    {
+      "ja": "鳥が誰かの頭や帽子の上で休んでいる状態",
+      "tag": "bird on head"
+    },
+    {
+      "ja": "葉っぱが頭の上にある状態",
+      "tag": "leaf on head"
+    },
+    {
+      "ja": "猫が頭の上にいる",
+      "tag": "cat on head"
+    },
+    {
+      "ja": "頭の上から花が生えている状態・茎や葉を伴うことが多い・「脳内お花畑」との関連・のんきさ、お気楽さ、バカさを象徴・hair flowerとは異なる",
+      "tag": "flower on head"
+    },
+    {
+      "ja": "ポケモンが誰かの頭の上にいる",
+      "tag": "pokemon on head"
+    },
+    {
+      "ja": "食べ物が頭の上にある",
+      "tag": "food on head"
+    },
+    {
+      "ja": "ウサギが頭の上にいる",
+      "tag": "rabbit on head"
+    },
+    {
+      "ja": "果物が頭の上にある",
+      "tag": "fruit on head"
+    },
+    {
+      "ja": "人が他の人の頭の上にいる・一般的にちびキャラ形式",
+      "tag": "person on head"
+    },
+    {
+      "ja": "実物の頭蓋骨（多くは動物）を帽子のように被っている状態",
+      "tag": "skull on head"
+    },
+    {
+      "ja": "ちびキャラや動物が頭の上にいる状態・人の場合：person on headを併用・動物の場合：animal on headを併用",
+      "tag": "chibi on head"
+    },
+    {
+      "ja": "お札が頭に貼られている・キョンシーjiangshiによく見られる",
+      "tag": "ofuda on head"
+    },
+    {
+      "ja": "タオルを頭に巻いている",
+      "tag": "towel on head"
+    },
+    {
+      "ja": "下着を帽子やマスクのように頭に着用・顔に着用する場合はpanty mask類似表現：bra on head,bloomers on head,buruma on head",
+      "tag": "panties on head"
+    }
+  ],
+  "未分類❓": [
+    {
+      "ja": "寝そべる、横になる",
+      "tag": "lying"
+    },
+    {
+      "ja": "ポーズを取る",
+      "tag": "pose"
+    },
+    {
+      "ja": "うつ伏せ",
+      "tag": "on stomach"
+    },
+    {
+      "ja": "頭を傾ける",
+      "tag": "head tilt"
+    },
+    {
+      "ja": "lying + 横向き",
+      "tag": "on side"
+    },
+    {
+      "ja": "うつむく、下を向く",
+      "tag": "head down"
+    },
+    {
+      "ja": "あお向け",
+      "tag": "on back"
+    },
+    {
+      "ja": "仰け反り・通常は空を見上げる姿勢",
+      "tag": "head back"
+    },
+    {
+      "ja": "四つん這い",
+      "tag": "all fours"
+    },
+    {
+      "ja": "内股",
+      "tag": "pigeon-toed"
+    },
+    {
+      "ja": "四つん這いで前進",
+      "tag": "crawling"
+    },
+    {
+      "ja": "上下逆さま、逆さ吊り",
+      "tag": "upside-down"
+    },
+    {
+      "ja": "逆立ち、倒立",
+      "tag": "handstand"
+    },
+    {
+      "ja": "誰かの頭の上にいる生き物",
+      "tag": "on head"
+    },
+    {
+      "ja": "カメラ目線",
+      "tag": "looking at viewer"
+    },
+    {
+      "ja": "",
+      "tag": "animal on head"
+    },
+    {
+      "ja": "振り返る",
+      "tag": "looking back"
+    },
+    {
+      "ja": "",
+      "tag": "animal on hand"
+    },
+    {
+      "ja": "横を見る",
+      "tag": "looking to the side"
+    },
+    {
+      "ja": "",
+      "tag": "bird on hand"
+    },
+    {
+      "ja": "目をそらす",
+      "tag": "looking away"
+    },
+    {
+      "ja": "",
+      "tag": "object on head"
+    },
+    {
+      "ja": "下を見る",
+      "tag": "looking down"
+    },
+    {
+      "ja": "上を見る",
+      "tag": "looking up"
+    },
+    {
+      "ja": "ジョジョ立ち",
+      "tag": "jojo pose"
+    },
+    {
+      "ja": "遠くを見る",
+      "tag": "looking afar"
+    },
+    {
+      "ja": "前を見る",
+      "tag": "looking ahead"
+    },
+    {
+      "ja": "翼展開、広げた翼・静止状態での翼の展開が主",
+      "tag": "spread wings"
+    },
+    {
+      "ja": "手を見る",
+      "tag": "looking at hand"
+    }
+  ],
+  "反映されにくい/ ちょっと使いにくいかもしれない（ポーズ）": [
+    {
+      "ja": "顔を手で覆う(推奨: covering own mouth)",
+      "tag": "facepalm"
+    },
+    {
+      "ja": "お辞儀の一種(特に女性が膝を曲げて行う礼)",
+      "tag": "curtsey"
+    },
+    {
+      "ja": "帽子に手を触れて挨拶する",
+      "tag": "hat tip"
+    },
+    {
+      "ja": "あっかんべー",
+      "tag": "akanbe"
+    },
+    {
+      "ja": "跏趺（かふざ）姿勢",
+      "tag": "lotus position"
+    }
+  ],
+  "動作・行動系🤸": [],
+  "🤸": [
+    {
+      "ja": "目を覆う (まぶしい)",
+      "tag": "shading eyes"
+    },
+    {
+      "ja": "そわそわする",
+      "tag": "fidgeting"
+    },
+    {
+      "ja": "お辞儀",
+      "tag": "bowing"
+    },
+    {
+      "ja": "体が震える",
+      "tag": "trembling"
+    },
+    {
+      "ja": "料理する",
+      "tag": "cooking"
+    },
+    {
+      "ja": "震える",
+      "tag": "shaking"
+    },
+    {
+      "ja": "箸を持っている",
+      "tag": "holding chopsticks"
+    },
+    {
+      "ja": "ピクピクする、痙攣",
+      "tag": "twitching"
+    },
+    {
+      "ja": "食べ物を与える（あーん、餌付け）",
+      "tag": "feeding"
+    },
+    {
+      "ja": "息が荒い",
+      "tag": "heavy breathing"
+    },
+    {
+      "ja": "食べている",
+      "tag": "eating"
+    },
+    {
+      "ja": "噛む",
+      "tag": "biting"
+    },
+    {
+      "ja": "咀嚼する",
+      "tag": "chewing"
+    },
+    {
+      "ja": "唇を噛む",
+      "tag": "biting own lip"
+    },
+    {
+      "ja": "溶ける (物体、人物)",
+      "tag": "melting"
+    },
+    {
+      "ja": "誰かの耳を噛む",
+      "tag": "ear biting"
+    },
+    {
+      "ja": "液体に取り込まれたり煙に変わったり",
+      "tag": "dissolving"
+    },
+    {
+      "ja": "手袋を噛む",
+      "tag": "glove biting"
+    },
+    {
+      "ja": "液体を注ぐ (容器, 床)",
+      "tag": "pouring"
+    },
+    {
+      "ja": "出血する",
+      "tag": "bleeding"
+    },
+    {
+      "ja": "飲んでいる",
+      "tag": "drinking"
+    },
+    {
+      "ja": "泣く",
+      "tag": "crying"
+    },
+    {
+      "ja": "嗅ぐ",
+      "tag": "smelling"
+    },
+    {
+      "ja": "うめく、声を漏らす",
+      "tag": "moaning"
+    },
+    {
+      "ja": "叫ぶ (意図的)",
+      "tag": "shouting"
+    },
+    {
+      "ja": "空中を移動する",
+      "tag": "flying"
+    },
+    {
+      "ja": "叫ぶ (本能的)",
+      "tag": "screaming"
+    },
+    {
+      "ja": "空中に浮かぶ",
+      "tag": "floating"
+    },
+    {
+      "ja": "あくびをする",
+      "tag": "yawning"
+    },
+    {
+      "ja": "跳ぶ",
+      "tag": "jumping"
+    },
+    {
+      "ja": "にらむ",
+      "tag": "glaring"
+    },
+    {
+      "ja": "落ちる、転ぶ",
+      "tag": "falling"
+    },
+    {
+      "ja": "じっと見つめる",
+      "tag": "staring"
+    },
+    {
+      "ja": "髪がなびく",
+      "tag": "floating hair"
+    },
+    {
+      "ja": "洗脳",
+      "tag": "mind control"
+    },
+    {
+      "ja": "水や液体に浮かぶ",
+      "tag": "afloat"
+    },
+    {
+      "ja": "●REC",
+      "tag": "recording"
+    },
+    {
+      "ja": "水遊び",
+      "tag": "wading"
+    },
+    {
+      "ja": "服を脱ぐ",
+      "tag": "undressing"
+    },
+    {
+      "ja": "水しぶきを上げる",
+      "tag": "splashing"
+    },
+    {
+      "ja": "結び目をほどく",
+      "tag": "untying"
+    },
+    {
+      "ja": "泳ぐ",
+      "tag": "swimming"
+    },
+    {
+      "ja": "ジッパーを開ける",
+      "tag": "unzipping"
+    },
+    {
+      "ja": "潜る",
+      "tag": "diving"
+    },
+    {
+      "ja": "チラ見せする",
+      "tag": "flashing"
+    },
+    {
+      "ja": "素潜り",
+      "tag": "freediving"
+    },
+    {
+      "ja": "体を見せる",
+      "tag": "presenting"
+    },
+    {
+      "ja": "釣りをする",
+      "tag": "fishing"
+    },
+    {
+      "ja": "プライベートな部分を隠す",
+      "tag": "covering privates"
+    },
+    {
+      "ja": "キスする",
+      "tag": "kiss"
+    },
+    {
+      "ja": "舐める",
+      "tag": "licking"
+    },
+    {
+      "ja": "タバコを吸う",
+      "tag": "smoking"
+    },
+    {
+      "ja": "指を舐める",
+      "tag": "licking finger"
+    },
+    {
+      "ja": "読む",
+      "tag": "reading"
+    },
+    {
+      "ja": "他人の顔を舐める",
+      "tag": "licking another’s face"
+    },
+    {
+      "ja": "書く",
+      "tag": "writing"
+    },
+    {
+      "ja": "耳を舐める",
+      "tag": "licking ear"
+    },
+    {
+      "ja": "話す",
+      "tag": "talking"
+    },
+    {
+      "ja": "脇を舐める",
+      "tag": "licking armpit"
+    },
+    {
+      "ja": "笑う",
+      "tag": "laughing"
+    },
+    {
+      "ja": "足を舐める",
+      "tag": "licking foot"
+    },
+    {
+      "ja": "尻尾を振る",
+      "tag": "tail wagging"
+    },
+    {
+      "ja": "指や棒で頬や胸をつつく",
+      "tag": "poking"
+    },
+    {
+      "ja": "踊る",
+      "tag": "dancing"
+    },
+    {
+      "ja": "頬をつつく",
+      "tag": "cheek poking"
+    },
+    {
+      "ja": "ポールダンス",
+      "tag": "pole dancing"
+    },
+    {
+      "ja": "頬、鼻、腹部をつねる",
+      "tag": "pinching"
+    },
+    {
+      "ja": "手招きする",
+      "tag": "beckoning"
+    },
+    {
+      "ja": "頬をつねる",
+      "tag": "cheek pinching"
+    },
+    {
+      "ja": "ささやく",
+      "tag": "whispering"
+    },
+    {
+      "ja": "乳首をつまむ",
+      "tag": "nipple tweak"
+    },
+    {
+      "ja": "楽器を演奏する",
+      "tag": "playing instrument"
+    },
+    {
+      "ja": "授乳する",
+      "tag": "breastfeeding"
+    },
+    {
+      "ja": "歌う",
+      "tag": "singing"
+    },
+    {
+      "ja": "身体に触る",
+      "tag": "groping"
+    },
+    {
+      "ja": "応援する",
+      "tag": "cheering"
+    },
+    {
+      "ja": "くすぐる",
+      "tag": "tickling"
+    },
+    {
+      "ja": "拍手する",
+      "tag": "clapping"
+    },
+    {
+      "ja": "またがる",
+      "tag": "straddling"
+    },
+    {
+      "ja": "乗る",
+      "tag": "riding"
+    },
+    {
+      "ja": "乗馬、騎馬",
+      "tag": "horseback riding"
+    },
+    {
+      "ja": "祈る",
+      "tag": "praying"
+    },
+    {
+      "ja": "運転する",
+      "tag": "driving"
+    },
+    {
+      "ja": "考える",
+      "tag": "thinking"
+    },
+    {
+      "ja": "ほうきに乗る",
+      "tag": "broom riding"
+    },
+    {
+      "ja": "想像する",
+      "tag": "imagining"
+    },
+    {
+      "ja": "こする",
+      "tag": "grinding"
+    },
+    {
+      "ja": "夢を見る",
+      "tag": "dreaming"
+    },
+    {
+      "ja": "こする (服を着た状態)",
+      "tag": "humping"
+    },
+    {
+      "ja": "結婚式",
+      "tag": "wedding"
+    },
+    {
+      "ja": "胸が揺れる",
+      "tag": "bouncing breasts"
+    },
+    {
+      "ja": "遊ぶ",
+      "tag": "playing"
+    },
+    {
+      "ja": "入浴する",
+      "tag": "bathing"
+    },
+    {
+      "ja": "ゲームをする",
+      "tag": "playing games"
+    },
+    {
+      "ja": "混浴",
+      "tag": "mixed-sex bathing"
+    },
+    {
+      "ja": "絵を描いている",
+      "tag": "painting \\(action\\)"
+    },
+    {
+      "ja": "体を洗う",
+      "tag": "washing"
+    },
+    {
+      "ja": "描いている絵、またはすでに描かれていて額縁",
+      "tag": "drawing \\(object\\)"
+    },
+    {
+      "ja": "滴る ( “wet” の方が明確)",
+      "tag": "dripping"
+    },
+    {
+      "ja": "子供の絵",
+      "tag": "child’s drawing"
+    },
+    {
+      "ja": "乾かす",
+      "tag": "drying"
+    },
+    {
+      "ja": "シャボン玉を吹く",
+      "tag": "blowing bubbles"
+    },
+    {
+      "ja": "髪をブラシで梳かす",
+      "tag": "brushing hair"
+    },
+    {
+      "ja": "空気を吹く",
+      "tag": "blowing"
+    },
+    {
+      "ja": "髪を整える(含: スタイリング、カット等)",
+      "tag": "hairdressing"
+    },
+    {
+      "ja": "揺れる/ブランコ等",
+      "tag": "swing"
+    },
+    {
+      "ja": "髪を切る",
+      "tag": "cutting hair"
+    },
+    {
+      "ja": "揺れている/ブランコ等",
+      "tag": "swinging"
+    },
+    {
+      "ja": "髪を耳にかける",
+      "tag": "tucking hair"
+    },
+    {
+      "ja": "服を着る",
+      "tag": "dressing"
+    },
+    {
+      "ja": "結ぶ",
+      "tag": "tying"
+    },
+    {
+      "ja": "ストレッチ",
+      "tag": "stretching"
+    },
+    {
+      "ja": "胸部パッド装着",
+      "tag": "breast padding"
+    },
+    {
+      "ja": "運ぶ、誰かを支える",
+      "tag": "carrying"
+    },
+    {
+      "ja": "隠れる",
+      "tag": "hiding"
+    },
+    {
+      "ja": "お姫様抱っこ",
+      "tag": "princess carry"
+    },
+    {
+      "ja": "覗く",
+      "tag": "peeking"
+    },
+    {
+      "ja": "脇に挟む・物や人を脇の下に抱えて運ぶ",
+      "tag": "carrying under arm"
+    },
+    {
+      "ja": "覗き見 (盗撮風)",
+      "tag": "voyeurism"
+    },
+    {
+      "ja": "押す",
+      "tag": "pushing"
+    },
+    {
+      "ja": "浮気する",
+      "tag": "cheating \\(relationship\\)"
+    },
+    {
+      "ja": "引く",
+      "tag": "pulling"
+    },
+    {
+      "ja": "(主にお尻を) 手のひらで叩く",
+      "tag": "spanking"
+    },
+    {
+      "ja": "回転する",
+      "tag": "spinning"
+    },
+    {
+      "ja": "(主にお尻が) 叩かれた跡",
+      "tag": "spanked"
+    },
+    {
+      "ja": "引きずる",
+      "tag": "dragging"
+    },
+    {
+      "ja": "(主に顔面を) 平手打ち",
+      "tag": "slapping"
+    },
+    {
+      "ja": "登る動作",
+      "tag": "climbing"
+    },
+    {
+      "ja": "首を絞める",
+      "tag": "strangling"
+    },
+    {
+      "ja": "ぶら下げる",
+      "tag": "hanging"
+    },
+    {
+      "ja": "いじめる",
+      "tag": "bullying"
+    },
+    {
+      "ja": "からかう",
+      "tag": "teasing"
+    },
+    {
+      "ja": "(動物を) 撫でる",
+      "tag": "petting"
+    },
+    {
+      "ja": "もがく",
+      "tag": "struggling"
+    },
+    {
+      "ja": "抱きしめる",
+      "tag": "cuddling"
+    },
+    {
+      "ja": "パニックになる",
+      "tag": "panicking"
+    },
+    {
+      "ja": "慰める",
+      "tag": "comforting"
+    },
+    {
+      "ja": "這う",
+      "tag": "crawling"
+    },
+    {
+      "ja": "寄り添う",
+      "tag": "spooning"
+    },
+    {
+      "ja": "唾を吐く",
+      "tag": "spitting"
+    },
+    {
+      "ja": "抱きしめる",
+      "tag": "hug"
+    },
+    {
+      "ja": "血を吐く",
+      "tag": "spitting blood"
+    },
+    {
+      "ja": "物を抱きしめる",
+      "tag": "hugging object"
+    },
+    {
+      "ja": "燃える",
+      "tag": "burning"
+    },
+    {
+      "ja": "背後から抱きしめる",
+      "tag": "hug from behind"
+    },
+    {
+      "ja": "盗む",
+      "tag": "theft"
+    },
+    {
+      "ja": "枕を抱きしめる",
+      "tag": "pillow hug"
+    },
+    {
+      "ja": "他の人の腕を抱きしめる",
+      "tag": "arm hug"
+    },
+    {
+      "ja": "みんなで抱き合う・3人以上で輪になって抱き合う",
+      "tag": "group hug"
+    },
+    {
+      "ja": "手をつなぐ/手を握る",
+      "tag": "holding hands"
+    },
+    {
+      "ja": "歩く",
+      "tag": "walking"
+    },
+    {
+      "ja": "2人でハートを作る",
+      "tag": "heart hands duo"
+    },
+    {
+      "ja": "走る",
+      "tag": "running"
+    },
+    {
+      "ja": "見つめ合う",
+      "tag": "eye contact"
+    },
+    {
+      "ja": "追いかける",
+      "tag": "chasing"
+    },
+    {
+      "ja": "「頭を寄せ合う",
+      "tag": "heads together"
+    },
+    {
+      "ja": "指を絡ませる指を組む、手と手ラブ握り・他者と手を組む場合はholding handsを追加・自分の手同士で組む場合で手のひらが触れる時はown hands claspedを追加",
+      "tag": "interlocked fingers"
+    },
+    {
+      "ja": "掃除する",
+      "tag": "cleaning"
+    },
+    {
+      "ja": "背中合わせ",
+      "tag": "back-to-back"
+    },
+    {
+      "ja": "くしゃみをする",
+      "tag": "sneezing"
+    },
+    {
+      "ja": "顔を合わせる",
+      "tag": "face-to-face"
+    },
+    {
+      "ja": "バランスを取る",
+      "tag": "balancing"
+    },
+    {
+      "ja": "頬を合わせる",
+      "tag": "cheek-to-cheek"
+    },
+    {
+      "ja": "縫う",
+      "tag": "sewing"
+    },
+    {
+      "ja": "おでこ合わせ",
+      "tag": "forehead-to-forehead"
+    },
+    {
+      "ja": "測る",
+      "tag": "measuring"
+    },
+    {
+      "ja": "対面座位",
+      "tag": "upright straddle"
+    },
+    {
+      "ja": "テレビを見る",
+      "tag": "watching television"
+    },
+    {
+      "ja": "背面座位",
+      "tag": "reverse upright straddle"
+    },
+    {
+      "ja": "LINEを使う",
+      "tag": "text messaging"
+    },
+    {
+      "ja": "脚のロック・だいしゅきホールド",
+      "tag": "leg lock"
+    },
+    {
+      "ja": "誤解 (漫画でよく使われる)",
+      "tag": "misunderstanding"
+    },
+    {
+      "ja": "おんぶ",
+      "tag": "piggyback"
+    },
+    {
+      "ja": "買い物する",
+      "tag": "shopping"
+    },
+    {
+      "ja": "肩車・誰かや何かを肩に乗せて運ぶ",
+      "tag": "shoulder carry"
+    },
+    {
+      "ja": "化粧する",
+      "tag": "applying makeup"
+    },
+    {
+      "ja": "肩に担ぐ",
+      "tag": "carrying over shoulder"
+    },
+    {
+      "ja": "何かを手渡す ( “gift” )",
+      "tag": "giving"
+    }
+  ],
+  "アクシデント・トラブル": [
+    {
+      "ja": "躓く、つまづく",
+      "tag": "tripping"
+    },
+    {
+      "ja": "倒れる、転ぶ、転び、転倒",
+      "tag": "fallen down"
+    },
+    {
+      "ja": "不器用、ドジ",
+      "tag": "clumsy"
+    },
+    {
+      "ja": "落ちる、落下",
+      "tag": "falling"
+    },
+    {
+      "ja": "ドジっ娘",
+      "tag": "dojikko"
+    },
+    {
+      "ja": "落とす、投下",
+      "tag": "dropping"
+    },
+    {
+      "ja": "滑る、すべる、スリップ",
+      "tag": "slipping"
+    },
+    {
+      "ja": "ラッキースケベ",
+      "tag": "accidental pervert"
+    },
+    {
+      "ja": "こぼす",
+      "tag": "spilling"
+    },
+    {
+      "ja": "バナナの皮",
+      "tag": "banana peel"
+    },
+    {
+      "ja": "こぼした後の状況",
+      "tag": "spill"
+    },
+    {
+      "ja": "失敗、間違い",
+      "tag": "failure"
+    },
+    {
+      "ja": "事故、アクシデント",
+      "tag": "accident"
+    },
+    {
+      "ja": "絡まる",
+      "tag": "entangled"
+    },
+    {
+      "ja": "ハプニング、どうしてこうなった",
+      "tag": "unlikely accident"
+    },
+    {
+      "ja": "違う、そうじゃない",
+      "tag": "you’re doing it wrong"
+    },
+    {
+      "ja": "偶然の露出",
+      "tag": "accidental exposure"
+    },
+    {
+      "ja": "顔面着地",
+      "tag": "faceplant"
+    },
+    {
+      "ja": "脱がす、脱がせる",
+      "tag": "assisted exposure"
+    },
+    {
+      "ja": "バケツこぼし",
+      "tag": "bucket spill"
+    }
+  ],
+  "服の調整👖": [],
+  "服を調整するタグ👖": [
+    {
+      "ja": "服が下ろされた状態 (全般)または下ろす行為または襟を引っ張る",
+      "tag": "clothes pull"
+    },
+    {
+      "ja": "たくし上げ (全般)",
+      "tag": "clothes lift"
+    },
+    {
+      "ja": "下ろす (パンツ)",
+      "tag": "panty pull"
+    },
+    {
+      "ja": "自分で服を持ち上げる",
+      "tag": "lifted by self"
+    },
+    {
+      "ja": "下ろす (ストッキング)",
+      "tag": "pantyhose pull"
+    },
+    {
+      "ja": "他人の服を持ち上げる",
+      "tag": "lifting another’s clothes"
+    },
+    {
+      "ja": "下ろす (ズボン)",
+      "tag": "pants pull"
+    },
+    {
+      "ja": "風で服が持ち上がる",
+      "tag": "wind lift"
+    },
+    {
+      "ja": "下ろす (スカート)",
+      "tag": "skirt pull"
+    },
+    {
+      "ja": "持ち上げる (シャツ)",
+      "tag": "shirt lift"
+    },
+    {
+      "ja": "下ろす (ビキニ)",
+      "tag": "bikini pull"
+    },
+    {
+      "ja": "持ち上げる (スカート)",
+      "tag": "skirt lift"
+    },
+    {
+      "ja": "下ろす (シャツ)",
+      "tag": "shirt pull"
+    },
+    {
+      "ja": "持ち上げる (ドレス)",
+      "tag": "dress lift"
+    },
+    {
+      "ja": "下ろす (ブラ)",
+      "tag": "bra pull"
+    },
+    {
+      "ja": "持ち上げる (セーター)",
+      "tag": "sweater lift"
+    },
+    {
+      "ja": "下ろす (半ズボン)",
+      "tag": "shorts pull"
+    },
+    {
+      "ja": "持ち上げる (上着の紐)",
+      "tag": "strap lift"
+    },
+    {
+      "ja": "下ろす (紐)",
+      "tag": "strap pull"
+    },
+    {
+      "ja": "持ち上げる (パーカー)",
+      "tag": "hoodie lift"
+    },
+    {
+      "ja": "下ろす (ドレス)",
+      "tag": "dress pull"
+    },
+    {
+      "ja": "持ち上げる (着物)",
+      "tag": "kimono lift"
+    },
+    {
+      "ja": "下ろす (マスク)",
+      "tag": "mask pull"
+    },
+    {
+      "ja": "持ち上げる (エプロン)",
+      "tag": "apron lift"
+    },
+    {
+      "ja": "下ろす (レオタード)",
+      "tag": "leotard pull"
+    },
+    {
+      "ja": "持ち上げる (スポーツブラ)",
+      "tag": "sports bra lift"
+    },
+    {
+      "ja": "下ろす (ニーハイ)",
+      "tag": "thighhighs pull"
+    },
+    {
+      "ja": "持ち上げる (パンツ)",
+      "tag": "panty lift"
+    },
+    {
+      "ja": "下ろす (着物)",
+      "tag": "kimono pull"
+    },
+    {
+      "ja": "持ち上げる (ジャケット)",
+      "tag": "jacket lift"
+    },
+    {
+      "ja": "下ろす (ブルマ)",
+      "tag": "buruma pull"
+    },
+    {
+      "ja": "持ち上げる (キャミソール)",
+      "tag": "camisole lift"
+    },
+    {
+      "ja": "下ろす (ジャケット)",
+      "tag": "jacket pull"
+    },
+    {
+      "ja": "持ち上げる (セーラーカラー, 襟)",
+      "tag": "sailor collar lift"
+    },
+    {
+      "ja": "下ろす (男性用下着)",
+      "tag": "male underwear pull"
+    },
+    {
+      "ja": "持ち上げる (ベスト)",
+      "tag": "vest lift"
+    },
+    {
+      "ja": "下ろす, 履く (靴下)",
+      "tag": "sock pull"
+    },
+    {
+      "ja": "持ち上げる (マスク)",
+      "tag": "mask lift"
+    },
+    {
+      "ja": "下ろす (セーター)",
+      "tag": "sweater pull"
+    },
+    {
+      "ja": "持ち上げる (水着)",
+      "tag": "swimsuit lift"
+    },
+    {
+      "ja": "下ろす (ビキニボトム)",
+      "tag": "bikini bottom pull"
+    },
+    {
+      "ja": "ブラが上に持ち上がった状態",
+      "tag": "bra lift"
+    },
+    {
+      "ja": "下ろす, つける (手袋)",
+      "tag": "glove pull"
+    },
+    {
+      "ja": "ブラが下に下がった状態",
+      "tag": "bra pull"
+    },
+    {
+      "ja": "下ろす (サスペンダー)",
+      "tag": "suspenders pull"
+    },
+    {
+      "ja": "ビキニトップ上がった状態",
+      "tag": "bikini top lift"
+    },
+    {
+      "ja": "下ろす (かぼちゃパンツ)",
+      "tag": "bloomers pull"
+    },
+    {
+      "ja": "ビキニトップ下がった状態",
+      "tag": "bikini top pull"
+    },
+    {
+      "ja": "裾を引っ張る・調整する",
+      "tag": "clothes tug"
+    },
+    {
+      "ja": "股布ずらし・aside =「脇へ」「横へ」",
+      "tag": "clothing aside"
+    },
+    {
+      "ja": "引っ張る (シャツ)",
+      "tag": "shirt tug"
+    },
+    {
+      "ja": "横にずれた状態 (下着)",
+      "tag": "panties aside"
+    },
+    {
+      "ja": "引っ張る (スカート)",
+      "tag": "skirt tug"
+    },
+    {
+      "ja": "横にずれた状態 (ビキニボトム)",
+      "tag": "bikini bottom aside"
+    },
+    {
+      "ja": "引っ張る (ドレス)",
+      "tag": "dress tug"
+    },
+    {
+      "ja": "横にずれた状態 (ビキニトップ)",
+      "tag": "bikini top aside"
+    },
+    {
+      "ja": "引っ張る (ビキニ)",
+      "tag": "bikini tug"
+    },
+    {
+      "ja": "横にずれた状態 (水着)",
+      "tag": "swimsuit aside"
+    },
+    {
+      "ja": "引っ張る (セーター)",
+      "tag": "sweater tug"
+    },
+    {
+      "ja": "横にずれた状態 (レオタード)",
+      "tag": "leotard aside"
+    },
+    {
+      "ja": "引っ張る (帽子)",
+      "tag": "hat tug"
+    },
+    {
+      "ja": "横にずれた状態 (Tバック)",
+      "tag": "thong aside"
+    },
+    {
+      "ja": "引っ張る (襟)",
+      "tag": "collar tug"
+    },
+    {
+      "ja": "横にずれた状態 (ショーツ)",
+      "tag": "shorts aside"
+    },
+    {
+      "ja": "引っ張る (ジャケット)",
+      "tag": "jacket tug"
+    },
+    {
+      "ja": "横にずれた状態 (前垂れ)",
+      "tag": "pelvic curtain aside"
+    },
+    {
+      "ja": "引っ張る (パンツ)",
+      "tag": "panty tug"
+    },
+    {
+      "ja": "横にずれた状態 (ふんどし)",
+      "tag": "fundoshi aside"
+    },
+    {
+      "ja": "引っ張る (水着)",
+      "tag": "swimsuit tug"
+    },
+    {
+      "ja": "横にずれた状態 (ブルマ)",
+      "tag": "buruma aside"
+    },
+    {
+      "ja": "引っ張る (エプロン)",
+      "tag": "apron tug"
+    },
+    {
+      "ja": "横にずれた状態 (ドレス)",
+      "tag": "dress aside"
+    }
+  ],
+  "身体特徴タグ・肌の色等🍔": [],
+  "身体特徴タグ・頭部・顔部": [
+    {
+      "ja": "額（ひたい）、おでこ・キャラクターの額が強調されている場合",
+      "tag": "forehead"
+    },
+    {
+      "ja": "額の印・額にある印や模様",
+      "tag": "forehead mark"
+    },
+    {
+      "ja": "舌・舌が明確に視認できる場合・舌が特徴的に描かれている場合関連タグ：・tongue out：口から出た舌・long tongue：特に長い舌",
+      "tag": "tongue"
+    },
+    {
+      "ja": "長い舌・基準：伸ばした時に顎を超える長さの舌",
+      "tag": "long tongue"
+    }
+  ],
+  "頸部": [
+    {
+      "ja": "首・使用条件：・視覚的に目立つ首の描写・不自然な比率の首・画像の焦点となる首",
+      "tag": "neck"
+    },
+    {
+      "ja": "長い首・解剖学的に実現不可能な長さの首",
+      "tag": "long neck"
+    },
+    {
+      "ja": "うなじ・日本美術での伝統的な美の焦点",
+      "tag": "nape"
+    }
+  ],
+  "胸部": [
+    {
+      "ja": "胸部・胸部が目立つ画像の場合に使用・除外：平坦な胸のキャラクターには使用不可",
+      "tag": "breasts"
+    },
+    {
+      "ja": "平坦な胸、ぺったんこ・完全に平坦な胸部・除外条件：・子供のキャラクター・breastsタグとの併用不可",
+      "tag": "flat chest"
+    },
+    {
+      "ja": "貧乳・サイズ基準：・手のひらサイズ・AAカップ～Cカップ未満",
+      "tag": "small breasts"
+    },
+    {
+      "ja": "普通乳、中程度の胸・基準：・small breastsより大きい・large breastsより小さい・手のひらより大きく顔より小さい",
+      "tag": "medium breasts"
+    },
+    {
+      "ja": "巨乳、大きな胸・サイズ基準：・顔の直径と同程度の球体・huge breastsより小さい",
+      "tag": "large breasts"
+    },
+    {
+      "ja": "爆乳、巨大な胸・サイズ基準：・頭部と同サイズ以上・頭部の2倍未満",
+      "tag": "huge breasts"
+    },
+    {
+      "ja": "超乳・サイズ基準：頭部の2倍以上の大きさがある巨大な胸",
+      "tag": "gigantic breasts"
+    },
+    {
+      "ja": "谷間・乳房間の窪み・対義：breasts apart",
+      "tag": "cleavage"
+    },
+    {
+      "ja": "横乳（よこちち）・条件：・乳房の外側のみ視認可能・乳首は非露出",
+      "tag": "sideboob"
+    },
+    {
+      "ja": "下乳（したちち）・条件：・乳房下部の露出・乳首は非露出",
+      "tag": "underboob"
+    },
+    {
+      "ja": "裏乳（うらちち）・背後から胸の側面が見える状態・キャラクターの後ろ姿で胸の膨らみが確認できる表現",
+      "tag": "backboob"
+    },
+    {
+      "ja": "自然に上向きな胸・プッシュアップブラなどの補助なしで上向き",
+      "tag": "perky breasts"
+    },
+    {
+      "ja": "吊り乳・前かがみや屈んだ姿勢での胸の描写・胸のサイズが大きい場合に見られる表現・胴体に密着せず、自然に垂れ下がる様子を描写",
+      "tag": "hanging breasts"
+    },
+    {
+      "ja": "垂れ乳、長乳・自然な垂れ下がりのある胸の形状・アニメで一般的な不自然に上向きの胸とは異なる・前かがみや前傾姿勢による一時的な垂れ下がりとは区別・小さい胸でも稀に見られる特徴",
+      "tag": "sagging breasts"
+    },
+    {
+      "ja": "乳揺れ・静止画の場合は動きを表現するためのmotion blurやmotion linesが必要・両胸が異なる方向に動く場合はunaligned breastsタグも追加",
+      "tag": "bouncing breasts"
+    },
+    {
+      "ja": "左右の胸が異なる方向を向いている状態・反対方向に揺れている状態・異なる角度で静止している状態・横方向に開いている場合はbreasts apartを使用",
+      "tag": "unaligned breasts"
+    },
+    {
+      "ja": "離れた乳房・乳房が離れて配置・条件：・乳房が外側を向く・胸骨上の皮膚が視認可能・除外：・小さな乳房・物体による分離",
+      "tag": "breasts apart"
+    },
+    {
+      "ja": "長乳（ながちち）・前方に突き出た円錐形の胸・上向きまたは下向きの可能性あり",
+      "tag": "pointy breasts"
+    },
+    {
+      "ja": "乳房の青筋・血管が浮き出て見える胸",
+      "tag": "veiny breasts"
+    },
+    {
+      "ja": "乳首・乳房上の乳首が見える状態・衣服越しに確認できる場合はcovered nipplesを使用",
+      "tag": "nipples"
+    },
+    {
+      "ja": "膨らんだ乳首・乳房の通常の曲線を超えて膨らんだ乳首および乳輪",
+      "tag": "puffy nipples"
+    },
+    {
+      "ja": "陥没乳首（かんぼつちくび）・外側ではなく内側に向かって凹む乳首",
+      "tag": "inverted nipples"
+    },
+    {
+      "ja": "覆われた乳首・衣服越しに乳首の突起が確認できる場合",
+      "tag": "covered nipples"
+    },
+    {
+      "ja": "乳首の欠如・露出した胸部に乳首が描かれていない状態",
+      "tag": "no nipples"
+    },
+    {
+      "ja": "小さな乳首・通常より小さい乳首（乳輪）・乳輪部分の顕著な小ささ",
+      "tag": "small nipples"
+    },
+    {
+      "ja": "長乳首、巨乳首・通常より長いまたは太い乳首・基準：・親指と同じ長さ、または2倍の太さが目安・着衣・露出いずれの状態でも適用可能",
+      "tag": "huge nipples"
+    },
+    {
+      "ja": "黒乳首・著しく暗い色の乳首・乳輪のみ見える場合はdark areolaeを使用",
+      "tag": "dark nipples"
+    },
+    {
+      "ja": "乳輪（にゅうりん）・非推奨タグ、他の適切なタグを使用すること",
+      "tag": "areolae"
+    },
+    {
+      "ja": "巨乳輪（きょにゅうりん）・基準：乳房の半分以上を占める大きさの乳輪",
+      "tag": "large areolae"
+    },
+    {
+      "ja": "明るい色の乳輪や乳首・主に濃い肌色のキャラクターに見られる",
+      "tag": "light areolae"
+    },
+    {
+      "ja": "黒乳輪（くろにゅうりん）・茶色から黒色の範囲・乳輪のみ見える場合に使用・乳首も見える場合はdark nipplesを使用",
+      "tag": "dark areolae"
+    },
+    {
+      "ja": "モンゴメリー腺・乳輪上の小さな隆起・乳輪と乳首の潤滑・保護機能",
+      "tag": "glands of montgomery"
+    },
+    {
+      "ja": "胸筋（きょうきん）・男性の胸部周辺の筋肉",
+      "tag": "pectorals"
+    },
+    {
+      "ja": "鎖骨（さこつ）・鎖骨が完全または部分的に露出している状態",
+      "tag": "collarbone"
+    },
+    {
+      "ja": "腋（わき）、脇（わき）",
+      "tag": "armpits"
+    }
+  ],
+  "腹部": [
+    {
+      "ja": "腹部、お腹（おなか）・画像内で目立つ要素として描かれている場合・下着や水着からの露出も含む・内臓としての胃はstomach \\(organ\\)を使用",
+      "tag": "stomach"
+    },
+    {
+      "ja": "腹肉（はらにく）、イカ腹・やや丸みを帯びた腹部・著しく大きい場合はbig bellyを使用",
+      "tag": "belly"
+    },
+    {
+      "ja": "ボテ腹、腹ボテ・顕著に大きな腹部・満腹、肥満、妊娠などの状態・一般的な妊娠の場合は不要・不明確な場合に使用可・bellyとの併用は避ける",
+      "tag": "big belly"
+    },
+    {
+      "ja": "膨腹、ボテ腹・液体やガスによる腹部膨張・stomach bulge：固形物による膨らみ・full stomach：過食による膨らみ・pregnant：妊娠・inflatable：膨張物",
+      "tag": "inflation"
+    },
+    {
+      "ja": "腹ボコ・内部からの圧力による腹部の膨らみ・現実では致命的な状態・液体などによる膨張はinflationを使用",
+      "tag": "stomach bulge"
+    },
+    {
+      "ja": "妊婦、妊娠、腹ボテ・明確な妊娠腹が見える場合のみ使用・妊娠検査薬を持っているだけの場合は対象外・inflationとは区別",
+      "tag": "pregnant"
+    },
+    {
+      "ja": "臍（へそ）、おへそ・腹部のへそが見える状態・covered navelとは対照的",
+      "tag": "navel"
+    },
+    {
+      "ja": "透けへそ・密着した不透明な衣服越しにへその形状が確認できる場合",
+      "tag": "covered navel"
+    },
+    {
+      "ja": "腹筋（ふっきん）関連タグ：・linea alba：軽度な筋肉の発達・covered abs：密着衣服越しの腹筋",
+      "tag": "abs"
+    },
+    {
+      "ja": "外腹斜筋（がいふくしゃきん）・発達した腹斜筋の描写・男性でより一般的",
+      "tag": "obliques"
+    },
+    {
+      "ja": "鼠径部（そけいぶ）・腹部と大腿部の接合部・鼠径靭帯による線状のくぼみ・ローレグ衣装lowlegの上部から見える場合・ハイレグ衣装highlegの脚部から見える場合",
+      "tag": "groin"
+    },
+    {
+      "ja": "鼠径部の腱・内腿に沿って見える腱・鍛錬された個体で顕著・内腿前面の隆起",
+      "tag": "groin tendon"
+    },
+    {
+      "ja": "肋骨（ろっこつ）・皮膚を通して見える肋骨の輪郭・除外：食用の肋骨ribs \\(food\\)",
+      "tag": "ribs"
+    }
+  ],
+  "背部": [
+    {
+      "ja": "背中・画像内で背中が明確に焦点化されている場合",
+      "tag": "back"
+    },
+    {
+      "ja": "ウェヌスのえくぼ・臀部上部の対称的な窪み・個人差が大きく、観察が必要な場合もある",
+      "tag": "dimples of venus"
+    }
+  ],
+  "腰部": [
+    {
+      "ja": "細い腰・基準：・体の他の部分より細い腰・腰幅が頭部と同程度・腰幅が腰骨の半分以下",
+      "tag": "narrow waist"
+    }
+  ],
+  "脚部・臀部": [
+    {
+      "ja": "脚部、足・画像において脚部が主要な焦点となっている場合・基準：脚全体が表示されている必要がある・除外：太もも部分のみの場合は使用不可",
+      "tag": "legs"
+    },
+    {
+      "ja": "長い脚・基準：上半身より長い脚・除外：ハイヒールによる見かけの長さ",
+      "tag": "long legs"
+    },
+    {
+      "ja": "生脚（なまあし）、素足・キャラクターの脚が衣服で覆われていない状態・基準：太ももから脛の中央部までが衣服で覆われていない状態・除外：ヌードや下半身裸体の場合は使用しない",
+      "tag": "bare legs"
+    },
+    {
+      "ja": "細い脚・通常より細い脚・必ずしも極端な細さである必要はない",
+      "tag": "slim legs"
+    },
+    {
+      "ja": "膝（ひざ）",
+      "tag": "knees"
+    },
+    {
+      "ja": "膝裏（ひざうら）・膝の後ろ側のくぼみ",
+      "tag": "kneepits"
+    },
+    {
+      "ja": "太もも（ふともも）、腿（もも）・太ももが画像の中心、または顕著に表示されている・タイツや密着した衣服で覆われていても使用可能・legsタグとの併用は、両方が明確な場合のみ",
+      "tag": "thighs"
+    },
+    {
+      "ja": "太い太もも、大根足（だいこんあし）・基準：・「通常」より太い太もも・太ももが腰回りとほぼ同じサイズの場合",
+      "tag": "thick thighs"
+    },
+    {
+      "ja": "幅広い腰、デカ尻・肩幅以上の幅がある腰",
+      "tag": "wide hips"
+    },
+    {
+      "ja": "膝（ひざ）",
+      "tag": "knees"
+    },
+    {
+      "ja": "尻（しり）、臀部（でんぶ）・臀部が描かれている画像",
+      "tag": "ass"
+    },
+    {
+      "ja": "肛門（こうもん）",
+      "tag": "anus"
+    }
+  ],
+  "足部": [
+    {
+      "ja": "裸足（はだし）、素足・完全に素足の状態・靴、靴下、ニーハイ等の着用なし・ヌードや水着の場合でも足が見える場合は適用",
+      "tag": "barefoot"
+    },
+    {
+      "ja": "足・足が目立つように描かれている・靴下、ニーハイ、パンストで覆われていても可・靴で完全に覆われている場合は対象外・foot focus：足が主題の場合",
+      "tag": "feet"
+    },
+    {
+      "ja": "汚れた足、足裏汚れ・土や埃で汚れた足・足裏や足全体の汚れ",
+      "tag": "dirty feet"
+    },
+    {
+      "ja": "足指（あしゆび）",
+      "tag": "toes"
+    },
+    {
+      "ja": "足裏（あしうら）・足裏の大部分が視認できる場合・靴下やパンストを着用していても、足の形状が確認できる場合は適用・除外条件：・靴を着用している場合・足の形状が隠れる緩い靴下の着用",
+      "tag": "soles"
+    },
+    {
+      "ja": "足裏（あしうら）・足裏の大部分が視認できる場合・靴下やパンストを着用していても、足の形状が確認できる場合は適用・除外条件：・靴を着用している場合・足の形状が隠れる緩い靴下の着用",
+      "tag": "soles"
+    }
+  ]
+}
